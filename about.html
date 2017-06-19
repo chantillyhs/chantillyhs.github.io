@@ -1,0 +1,343 @@
+<html lang="en">
+<head>
+    <!-- Commenting & base style by Sam Scheele -->
+    <!-- then the rest is Ian -->
+    <!-- compatibility stuff -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width = device-width, initial-scale=1">
+    <title>Schedule Simulator Homepage</title>
+    <!-- links to external resources -->
+    <!-- foundation -->
+    <link rel="stylesheet" href="stylesheets/app.css">
+    <!-- navbar -->
+    <link rel="stylesheet" href="stylesheets/navbar.css">
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <!-- font awesome -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <style>
+        body {
+            font-family: 'Raleway';
+        }
+        h1, h2 {
+            /* h1 and h2 must explicitly be given the new font, because their
+             * font family is specifically declared in Foundation (and more specific
+             * rules override less specific ones)
+             */
+            font-family: 'Raleway';
+            margin-top: 6vh;
+        }
+    </style>
+    <!-- all styles used for the about page -->
+    <style>
+        /* This is for the cards */
+        .banner{
+            width: 100%;
+            padding: 20px 10vw;
+        }
+        .banner h2{
+            font-size: 5vw;
+            font-weight: 200;
+            letter-spacing: 2px;
+        }
+        .banner h2 span{
+            color: #C75229; /* accent on the DEV on the title */
+        }
+        .banner h2 sup{
+            color: #C75229; /* accent on the improved edition sup tag on the title */
+            font-size: 35%;
+        }
+        .devs{
+            padding-top: 50px;
+        }
+        .box {
+            background-color: white;
+            width: 100%;
+            border-radius: 3px;
+            box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+            padding: 10px 25px;
+            display: block;
+            margin-top: 10px;
+            margin-bottom: 60px;
+            border-width: 10px;
+            border-left-width: 54px;
+            border-image: linear-gradient(45deg, pink, skyblue); 
+        }
+        .box:hover {
+            border-image: linear-gradient(45deg, #2ecc71, dodgerblue);
+            background: linear-gradient(45deg, #2ecc71, dodgerblue);
+        }
+        .box-icon {
+            background-color: #569;
+            border-radius: 50%;
+            display: table;
+            height: 200px;
+            margin: 0 auto;
+            width: 200px;
+            margin-top: -61px;
+            font-size: 3rem;
+        }
+        .box-icon span {
+            color: #fff;
+            display: table-cell;
+            text-align: center;
+            vertical-align: middle;
+        }
+        .info h4 {
+            color: #C75229;
+            font-size: 26px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+        .info p {
+            color: #717171;
+            font-size: 16px;
+            padding-top: 10px;
+        }
+        body{
+            background-image: url("img/pattern3.png");
+            margin-top: 0px;
+        }
+        .row {
+            max-width: 90%;
+        }
+        #sam-pic{
+            background-image: url("img/sam_turret.png");
+            border-radius: 50%;
+            filter: grayscale(80%);
+        }
+        #taylan-pic{
+            background-image: url("img/taylan.jpg");
+            border-radius: 50%;
+            filter: grayscale(80%);
+        }
+        #ian-pic{
+            background-image: url("img/spagetti.jpg");
+            zoom: 0.8;
+            border-radius: 50%;
+            filter: grayscale(80%);
+        }
+        /* icons (facebook, twitter, github) */
+        i {
+            font-size: 2.5rem; }
+
+        .icon-button {
+            border-radius: 3.6rem;
+            width: 3.6rem;
+            height: 3.6rem;
+            margin: 0 5px;
+            position: relative;
+            display: inline-block;
+            text-align: center;
+            font-size: 2rem;
+            background: white; }
+        .icon-button span {
+            display: block;
+            border-radius: 0;
+            width: 0;
+            height: 0;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transition: all 0.3s; }
+        .icon-button:hover span {
+            display: block;
+            border-radius: 3.6rem;
+            width: 3.6rem;
+            height: 3.6rem;
+            margin: -1.8rem; }
+        .icon-button i {
+            background: none;
+            height: 3.6rem;
+            width: 3.6rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: 10;
+            line-height: 3.6rem;
+            transition: all 0.3s; }
+
+        .twitter span {
+            background-color: #4099ff; }
+
+        .facebook span {
+            background-color: #3B5998; }
+
+        .gplus span {
+            background-color: #db5a3c; }
+
+        .github span {
+            background-color: black; }
+
+        .icon-button .fa-twitter-square {
+            color: #4099ff; }
+
+        .icon-button .fa-facebook-square {
+            color: #3b5998; }
+
+        .icon-button .fa-google-plus-square {
+            color: #db5a3c; }
+        .icon-button .fa-github {
+            color: black; }
+        .icon-button:hover .fa-twitter-square, .icon-button:hover .fa-facebook-square, .icon-button:hover .fa-google-plus-square, .icon-button:hover  .fa-github{
+            color: white;
+            font-size: 2.6rem;
+            line-height: 3.9rem; }
+        footer {
+            background-color: #030D0B;
+        }
+        footer p{
+            margin: 0;
+            height: 5vh;
+            color: whitesmoke;
+            letter-spacing: 30px;
+            text-align: center;
+        }
+        .info_woodson{
+            -webkit-mask-image:-webkit-gradient(linear, left bottom, left top, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)))
+        }
+        .indepth-info{
+         
+        }
+    </style>
+</head>
+<body>
+<!-- start nav bar code -->
+<div class="fixed">
+    <nav class="top-bar" data-topbar id="top-nav">
+        <ul class="title-area">
+            <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+            <li class="toggle-topbar menu-icon"><a><span>Menu</span></a></li>
+        </ul>
+        <div class="logo">
+            <a href="#"><img src="img/woodson_logo.png"/></a>
+        </div>
+        <section class="top-bar-section">
+            <ul class="center-buttons">
+                <!-- see comment on #top-nav-fix for why this is here. note that it is
+                not shown unless screen is small -->
+                <li class="show-for-small-only" id="top-nav-fix"></li>
+                <li class="divider"></li>
+                <li><a href="/index.html">Back To Landing Page</a></li>
+                <li class="divider"></li>
+                <li><a href="/select.html">To Simulator</a></li>
+            </ul>
+        </section>
+    </nav>
+</div>
+<!-- start banner -->
+<div class="row">
+    <div class="small-12 columns" style="width:100%;">
+        <section class="banner">
+            <h2><i class="fa fa-terminal" aria-hidden="true" style="font-size: 6.5vw"></i> wtw_<span>dev</span>_team<sup>improved edition</sup></h2>
+        </section>
+    </div>
+</div>
+<!-- end banner -->
+<!-- start card code -->
+<section class="devs">
+    <div class="row">
+        <!-- Sam's card -->
+        <div class="small-12 medium-6 large-4 columns">
+            <div class="box">
+                <div class="box-icon">
+                    <span id="sam-pic"></span>
+                </div>
+                <div class="info">
+                    <h4 class="text-center">Sam Scheele</h4>
+                    <p>Hi! I'm Sam and I'm responsible for all the code on this site (with the ironic exception of this page, which is entirely Ian). I started off doing backend when the site was in PHP, then started moving to frontend, and ended up suggesting a move to Angular so we could host a static site, which I then implemented. If you find any problems with the site, they're entirely my fault, and I would love it if you could shoot me an email at sam dot scheele at yahoo dot com so I can fix them. Thanks!</p>
+                    <a href="#" class="button">contact!</a>
+                    <!-- social platform icons -->
+                    <div class="social-media-bar">
+                        <a href="http://github.com/sscheele" class="icon-button github">
+                            <i class="fa fa-github"></i><span></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Taylan's card -->
+        <div class="small-12 medium-6 large-4 columns">
+            <div class="box">
+                <div class="box-icon">
+                    <span id="taylan-pic"></span>
+                </div>
+                <div class="info">
+                    <h4 class="text-center">Taylan</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque, tenetur quam aspernatur corporis at explicabo nulla dolore necessitatibus doloremque exercitationem sequi dolorem architecto perferendis quas aperiam debitis dolor soluta!</p>
+                    <a href="#" class="button">contact!</a>
+                    <!-- social platform icons -->
+                    <div class="social-media-bar">
+                        <a href="#" class="icon-button twitter">
+                            <i class="fa fa-twitter-square"></i><span></span>
+                        </a>
+                        <a href="#" class="icon-button facebook">
+                            <i class="fa fa-facebook-square"></i><span></span>
+                        </a>
+                        <a href="#" class="icon-button gplus">
+                            <i class="fa fa-google-plus-square"></i><span></span>
+                        </a>
+                        <a href="#" class="icon-button github">
+                            <i class="fa fa-github"></i><span></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Ian's card -->
+        <div class="small-12 medium-6 large-4  columns">
+            <div class="box">
+                <div class="box-icon">
+                    <span id="ian-pic"></span>
+                </div>
+                <div class="info">
+                    <h4 class="text-center">Ian</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque, tenetur quam aspernatur corporis at explicabo nulla dolore necessitatibus doloremque exercitationem sequi dolorem architecto perferendis quas aperiam debitis dolor soluta!</p>
+                    <a href="#" class="button">contact!</a>
+                    <!-- social platform icons -->
+                    <div class="social-media-bar">
+                        <a href="#" class="icon-button twitter">
+                            <i class="fa fa-twitter-square"></i><span></span>
+                        </a>
+                        <a href="#" class="icon-button facebook">
+                            <i class="fa fa-facebook-square"></i><span></span>
+                        </a>
+                        <a href="#" class="icon-button gplus">
+                            <i class="fa fa-google-plus-square"></i><span></span>
+                        </a>
+                        <a href="#" class="icon-button github">
+                            <i class="fa fa-github"></i><span></span>
+                        </a>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="info_woodson">
+    <!-- this is where a card with info about woodson/our mission would go -->
+
+    <img src="img/woodson_morning.jpg">
+    
+
+</section>
+
+
+<footer>
+    <p>end</p>
+</footer>
+
+
+<!-- we don't need any js besides the foundation stuff (jquery is a dependency) -->
+<script src="js/jquery.js"></script>
+<script src="js/foundation.min.js"></script>
+<script type="text/javascript">
+    $(document).foundation();
+</script>
+</body>
+</html>

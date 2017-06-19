@@ -1,0 +1,30 @@
+{
+    "Classes": [
+        "cte",
+        "english",
+        "esol",
+        "fine arts",
+        "general",
+        "health and p/e",
+        "languages",
+        "mathematics",
+        "science",
+        "social studies",
+        "special education"
+    ],
+    "Sports" : [
+        "fall",
+        "winter",
+        "spring",
+        "clubs"
+    ],
+    "Clubs" : [
+		"art",
+		"academic",
+		"sports",
+		"other",
+		"sport",
+		"volunteer",
+		"languages"
+    ]
+}

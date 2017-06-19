@@ -1,0 +1,99 @@
+<html lang="en">
+    <head>
+        <!-- compatibility stuff -->
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width = device-width, initial-scale=1">
+        <title>Schedule Simulator Homepage</title>
+        <!-- links to external resources -->
+        <!-- foundation -->
+        <link rel="stylesheet" href="stylesheets/app.css">
+        <!-- navbar -->
+        <link rel="stylesheet" href="stylesheets/navbar.css">
+        <!-- google fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"> 
+        <!-- font awesome -->
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+        <style>
+            body {
+                font-family: 'Raleway';
+                background-image: url("img/pattern2.png");
+            }
+            h1, h2 {
+                /* h1 and h2 must explicitly be given the new font, because their 
+                 * font family is specifically declared in Foundation (and more specific
+                 * rules override less specific ones)
+                 */
+                font-family: 'Raleway'; 
+                margin-top: 6vh;
+            }
+            .fact-head {
+                /* used for the buzwords (fast, responsive, etc) against a dark bg */
+                color: #11DFC7;
+            }
+            .row {
+                /* each row should take up at least roughly 1/3 of the screen */
+                min-height: 30vh;
+            }
+            .gradient-dark {
+                background: #000033; /* For browsers that do not support gradients */
+                background: -webkit-radial-gradient(#cccccc, #000033); /* Safari 5.1 to 6.0 */
+                background: -o-radial-gradient(#cccccc, #000033); /* For Opera 11.6 to 12.0 */
+                background: -moz-radial-gradient(#cccccc, #000033); /* For Firefox 3.6 to 15 */
+                background: radial-gradient(#cccccc, #000033); /* Standard syntax */
+            }
+            .large {
+                font-size: 150%;
+            }
+            #howto {
+                font-size: 120%;
+            }
+            .container-centered div h1 {
+                margin-top: 0px;
+                margin-bottom: 0px;
+            }
+            .container-centered div h2 {
+                margin-top: 0px;
+                margin-bottom: 15px;
+            }
+            .container-centered {
+                margin-top: 15vh;
+                margin-bottom: 20vh;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="fixed">
+            <nav class="top-bar" data-topbar id="top-nav">
+              <ul class="title-area">
+                <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+                <li class="toggle-topbar menu-icon"><a><span>Menu</span></a></li>
+              </ul>
+              <div class="logo">
+                <a href="/index.html"><img src="img/woodson_logo.png"/></a>
+              </div>
+              <section class="top-bar-section">
+                <ul class="center-buttons">
+                  <!-- see comment on #top-nav-fix for why this is here. note that it is
+                  not shown unless screen is small -->
+                  <li class="show-for-small-only" id="top-nav-fix"></li>
+                  <li><a href="/index.html#about">About</a></li>
+                  <li><a href="/help.html">Instructions</a></li>
+                  <li><a href="/about.html">Contact</a></li> <!-- Links directly to about page -->
+                </ul>
+              </section>
+            </nav>
+        </div>
+        <h1 style="text-align:center">Help/Instructions</h1>
+        <iframe src="https://www.youtube.com/embed/1Fo_58ocSl0" style="height: 60vh; width: 100%" allowfullscreen></iframe>
+        <!-- we need jquery and scrollTo for our own script -->
+        <script src="js/jquery.js"></script>
+        <script src="js/jquery.scrollTo.js"></script>
+        <script src="js/scrollTriggers.js"></script>
+        <script src="js/foundation.min.js"></script>
+        <script type="text/javascript">
+            $(document).foundation();
+        </script>
+    </body>
+</html>

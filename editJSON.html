@@ -1,0 +1,120 @@
+<html ng-app="editor">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width = device-width, initial-scale=1">
+<title>Activity Selection</title>
+
+<head>
+    <!-- links to external resources -->
+    <!-- foundation -->
+    <link rel="stylesheet" href="stylesheets/app.css">
+    <link rel="stylesheet" href="stylesheets/navbar.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+        crossorigin="anonymous">
+    <style>
+        .bottom-arrow {
+            font-size: 4em;
+        }
+
+        .class-row {
+            border: 1px solid lightblue;
+            background-color: lightgray;
+            display: table;
+            width: 100%;
+            padding-top: 2vh;
+            padding-bottom: 1vh;
+            margin-bottom: 3vh;
+        }
+
+        .property-cell {
+            display: table-cell;
+            text-align: center;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+
+<body>
+    <div ng-controller="mainCtrl as ctrl">
+        <div class="row row-top">
+            <h1 style="text-align: center">{{ctrl.displayList[ctrl.displayNum]}}</h1>
+        </div>
+        <!-- show only if looking at classes " -->
+        <div ng-show="ctrl.displayNum == 0">
+            <div class="row" style="height:60vh">
+                <textarea style="height: 100%; width:100%" id="jsonInBox"></textarea>
+            </div>
+        </div>
+        <div ng-show="ctrl.displayNum == 1">
+            <div class="row" style="color:blue">
+                <span style="text-align: center">Instructions for editing times:</span>
+                <ul>
+                    <li>Days, from left to right, are Monday through Sunday</li>
+                    <li>All times should be in the 24-hour format (ie, 1 PM should be written 13:00)</li>
+                    <li>Each day can have one time range, formatted as <code>{beginning}/{ending}</code> (eg, "13:00/15:00")</li>
+                    <li>To specify a duration that can be scheduled anywhere rather than a time range, make the start time "-1:00" and the end time the duration (eg, "-1:00/0:30")</li>
+                    <li>If an activity doesn't occur on a day, the range should be exactly "-1:00/0:00"</li>
+                </ul>
+            </div>
+            <div class="row">
+                <div class="class-row small-11 columns">
+                    <div class="property-cell" style="padding-right: 3vw"><span>Name</span></div>
+                    <div class="property-cell" style="padding-right: 2vw"><span>Category</span></div>
+                    <div class="property-cell"><span>Super Category</span></div>
+                    <div class="property-cell"><span>Daily Schedule</span></div>
+                    <div class="property-cell"><span>Description</span></div>
+                    <div class="property-cell"><span>Add/Remove</span></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="class-row small-11 columns">
+                    <div class="property-cell"><input type="text" style="background-color: white" ng-model="ctrl.newAct.name"></div>
+                    <div class="property-cell"><input type="text" style="background-color: white" ng-model="ctrl.newAct.category"></div>
+                    <div class="property-cell"><input type="text" style="background-color: white" ng-model="ctrl.newAct.superCategory"></div>
+                    <div class="property-cell"><button class="button" ng-click="displayTimes($event)">Edit Times</button></div>
+                    <div class="property-cell"><button class="button" ng-click="displayDesc($event)">Edit Description</button></div>
+                    <div class="small-1 columns"><i class="fa fa-plus-circle" style="font-size:3.5em;color:green" ng-click="addItem()"></i></div>
+                </div>
+                <textarea style="width: 100%; height: 15vh; display: none" ng-model="ctrl.newAct.description"></textarea>
+                <div class="class-row" style="display: none">
+                    <div class="property-cell" ng-repeat="ind in range(0, ctrl.newAct.times.length)"><input type="text" ng-model="ctrl.newAct.times[ind]"></div>
+                </div>
+            </div>
+            <div class="row" ng-repeat="act in ctrl.classModel.actInfo">
+                <div class="class-row small-11 columns">
+                    <div class="property-cell"><input type="text" style="background-color: white" ng-model="act.name"></div>
+                    <div class="property-cell"><input type="text" style="background-color: white" ng-model="act.category"></div>
+                    <div class="property-cell"><input type="text" style="background-color: white" ng-model="act.superCategory"></div>
+                    <div class="property-cell"><button class="button" ng-click="displayTimes($event)">Edit Times</button></div>
+                    <div class="property-cell"><button class="button" ng-click="displayDesc($event)">Edit Description</button></div>
+                    <div class="small-1 columns"><i class="fa fa-minus-circle" style="font-size:3.5em;color:darkred" ng-click="rmItem(act)"></i></div>
+                </div>
+                <textarea style="width: 100%; height: 15vh; display: none" ng-model="act.description"></textarea>
+                <div class="class-row" style="display: none">
+                    <div class="property-cell" ng-repeat="ind in range(0, act.times.length)"><input type="text" ng-model="act.times[ind]"></div>
+                </div>
+            </div>
+        </div>
+        <div ng-show="ctrl.displayNum == 2">
+            <textarea ng-value="ctrl.outText" style="height: 80vh"></textarea>
+        </div>
+        <div>
+            <div class="small-4 columns" style="text-align: right">
+                <i class="fa fa-chevron-left bottom-arrow" ng-click="changeDisplay(-1)"></i>
+                <span style="display: block; text-align: right">Prev</span>
+            </div>
+            <div class="small-2 columns"></div>
+            <div class="small-4 columns">
+                <i class="fa fa-chevron-right bottom-arrow" ng-click="changeDisplay(1)"></i>
+                <span style="display: block">Next</span>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="js/app-edit.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+body {
+    margin-top: 5vh;
+}
+.title-area li h1 {
+    color: white;
+}
+nav.top-bar {
+    text-align:center;
+}
+section.top-bar-section {
+    display: inline-block;
+}
+@media only screen and (min-width: 40em) {
+    .top-bar {
+        text-align: center;
+    }
+    ul.center-buttons {
+        display: inline-block;
+    }
+    .logo {
+        left: 5px;
+        top: -2px;
+        position: absolute;
+        max-width: 6.5rem !important;
+    }
+}
+.logo {
+    /* position logo nicely */
+    max-width: 3rem;
+    margin-top: .5rem;
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+.menu-icon {
+    padding-top: 2rem;
+}
+.menu-icon a span {
+    font-size: 150%;
+}
+.top-bar.expanded {
+    background: #333333;
+}
+/* This is a hack that is used to offset the fact that clicking on links
+ * scrolls down to the point where the fixed navbar covers the content.
+ * The anchor class is invisible and positioned 58px higher than it is declared
+ */
+a.anchor {
+    display: block;
+    position: relative;
+    top: -58px;
+    visibility: hidden;
+}

@@ -1,0 +1,1819 @@
+{
+   "actInfo":[
+      {
+         "name":"Principles Of Business",
+         "description":"This project-based course develops students understanding and skills in areas such as business law, economics, financial analysis, human resources management, information management, marketing, operations, and strategic management. Students acquire an understanding and appreciation of the business world. In addition to learning about the business world, students discover the roles of business in the free enterprise system and the global economy. The real-world impact of technology, effective communication, and interpersonal skills is evident throughout the course. This course also supports career development skills and explores career options.",
+         "superCategory":"Classes",
+         "category":"cte",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Information Systems",
+         "description":"Using project based learning, students apply problem-solving skills to real-life situations through word processing, spreadsheets, databases, multimedia presentations, integrated software activities and the use of the Microsoft Imagine Academy. Students work individually and in groups to explore computer concepts, operating systems, networks, telecommunications, and emerging technologies. Keyboarding instruction will be a component of this course based on student need. Upon successful completion of Information Systems, students may elect to obtain industry-recognized professional certification by taking the Microsoft Office Specialist (MOS) exams. The cooperative education (Business Cooperative Internship--679920) method is available for this course. Students combine classroom instruction and supervised on-the-job training in an approved position with continuing supervision throughout the school year.",
+         "superCategory":"Classes",
+         "category":"cte",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Programming",
+         "description":"The course helps participants understand the processes involved in software development and object-oriented programming. Through real-world projects, students explore computer concepts, apply logic procedures, and implement programming procedures with one or more languages, such as Java Script, C# and Python. Graphical User Interfaces may be used as students design and develop interactive multimedia applications. In addition, HTML or JavaScript may be employed to create Web pages. This is an introductory course that could lead to careers such as software engineer, developer, or game designer. The cooperative education (Business Cooperative Internship--679920) method is available for this course. Students combine classroom instruction and supervised on-the-job training in an approved position with continuing supervision throughout the school year.",
+         "superCategory":"Classes",
+         "category":"cte",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Business Law",
+         "description":"Business Law provides students with the basic knowledge to become a better informed citizen, employee, and consumer. The course offers students the opportunities to study the nature and function of our legal system, courts, and procedures. Topics include contracts, sales agreements, torts, constitutional law, criminal law, and family law. Students focus on consumer rights and responsibilities, examine legal aspects of employment, research careers in law, and discuss the impact of laws on travelers and those living abroad. Enriched with student projects, debates, mock trials, field trips, guest speakers, and Internet activities, the course helps students understand the laws affecting businesses and consumers.",
+         "superCategory":"Classes",
+         "category":"cte",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Business Management",
+         "description":"Students study basic management concepts and leadership styles as they explore business ownership, planning, economics, international business, and human relations issues such as employee motivation and conflict resolution. Through engaging software simulations, students learn to utilize efficiently and effectively the basic management functions of planning, organizing, staffing, directing, and controlling, and their impact on human and capital resources. Upon completion of this course, students will develop a business plan for a real or simulated business.",
+         "superCategory":"Classes",
+         "category":"cte",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Health Informatics",
+         "description":"Health Informatics offers an overview of the field of health informatics by providing students with the fundamental knowledge of the concepts of health informatics and how technology can be used in the delivery of health care. Students are provided a broad exposure to the field of Health Informatics in topics including networking, information systems, security, and HIPAA. This is part of the Claude Moore Health Informatics Program.",
+         "superCategory":"Classes",
+         "category":"cte",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Introduction To Marketing",
+         "description":"Students gain an understanding of the importance of marketing in today's society. They develop skills related to interpersonal communication, self-presentation, economics, marketing, sales, employability, career discovery, and ethical decision-making. This course reinforces mathematics, science, English, and history/social science Standards of Learning (SOL). Computer/technology applications and DECA activities support this course. DECA, the co-curricular student organization, offers opportunities in leadership, community, and competitive events. Field trips, guest speakers, and competitive events through DECA membership enhance the course work.",
+         "superCategory":"Classes",
+         "category":"cte",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Education For Employment 1",
+         "description":"This course teaches students to make informed career and continuing education choices as they transition from school, gain technical skills, and adapt to the workplace. Students are taught ethical behaviors and career-research, job acquisition, workplace-communication, self-awareness, self-advocacy, customer-service, and life skills. While enrolled in this course, the student will be an active member of a Career and Technical Student Organization (CTSO). The cooperative education (Education for Employment Cooperative Internship) method is available for this course. Students combine classroom instruction and supervised on-the-job training in an approved position with continuing supervision throughout the school year.",
+         "superCategory":"Classes",
+         "category":"cte",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Basic Technical Drawing",
+         "description":"Students develop basic skills in drawing and study careers related to drafting through the use of Computer-Assisted Drafting (CAD) and other software applications to gain an understanding of the technical drawing processes. This course is recommended for students interested in technical drawing, interior design, fashion design, decorating, construction, architecture, or engineering careers. 2D and 3D CAD certifications may be available.",
+         "superCategory":"Classes",
+         "category":"cte",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Design And Technology",
+         "description":"Design and Technology is designed as a foundation high school course in technology education. Students use core technology knowledge to solve open-ended problems and create systems. Laboratory activities engage students in the design process through projects that integrate mathematics, science, and other core subjects. Working in groups, students build and control systems in the development of technology.",
+         "superCategory":"Classes",
+         "category":"cte",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"English 9",
+         "description":"Students read and analyze a variety of literary and nonfiction texts, exploring the characteristics of different forms and the techniques authors use to achieve their intended purpose. In addition to a study of print texts, students evaluate, analyze, and create media messages to develop media literacy. Language study extends students' vocabulary through learning about connotations, denotations, word origins, and structures in authentic texts. Students apply their understanding of grammar, capitalization, punctuation, spelling, sentence structure, and paragraphing to varied and frequent writing assignments. Through narrative, expository, and persuasive writings, students build on their understanding of writing as a process of prewriting, drafting, revising, and publishing. In the research process, students find, evaluate, and select appropriate sources to create research products. They also develop communication skills by listening to and practicing oral presentations. (This is a Standards of Learning aligned course, which is tested in 11th grade.)",
+         "superCategory":"Classes",
+         "category":"english",
+         "times":[
+            "-1:00/0:15",
+            "-1:00/0:15",
+            "-1:00/0:15",
+            "-1:00/0:15",
+            "-1:00/0:15",
+            "-1:00/0:15",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Transitional English 9",
+         "description":"Transitional English 9 is intended to be taken concurrently with English for Speakers of other Languages (ESOL) Level 4 to serve as a transition from ESOL to the mainstream English program. Students read and analyze a variety of literary and nonfiction texts, exploring the characteristics of different forms and the techniques authors use to achieve their intended purpose. In addition to a study of print texts, students evaluate, analyze, and create media messages to develop media literacy. Language study extends students' vocabulary through learning about connotations, denotations, word origins, and structures in authentic texts. Students apply their understanding of grammar, capitalization, punctuation, spelling, sentence structure, and paragraphing to varied and frequent writing assignments. Through narrative, expository, and persuasive writings, students build on their understanding of writing as a process of prewriting, drafting, revising, and publishing. In the research process, students find, evaluate, and select appropriate sources to create research products. They also develop communication skills by listening to and practicing oral presentations. (This is a Standards of Learning aligned course, which is tested in 11th grade.)",
+         "superCategory":"Classes",
+         "category":"english",
+         "times":[
+            "-1:00/0:12",
+            "-1:00/0:12",
+            "-1:00/0:12",
+            "-1:00/0:12",
+            "-1:00/0:12",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"English 9 Honors",
+         "description":"Students extend their language skills through deep reading and purposeful written and oral communication. Students read, analyze, and compare a variety of literary and nonfiction texts, exploring the characteristics of different forms and the purposeful ways authors use language and techniques to achieve their intended effect. Through authentic texts, students build a sophisticated vocabulary by applying their knowledge of connotations, denotations, word origins, and structures. In addition to a study of print texts, students evaluate, analyze, and create media messages to better understand the impact and role of media in society. Students apply their understanding of language to engage in varied and frequent oral and written assessments including research products. Through these tasks, they engage in personal inquiry to develop their own views on topics and craft writing for specific audiences and purposes. (This is a Standards of Learning aligned course, which is tested in 11th grade.)",
+         "superCategory":"Classes",
+         "category":"english",
+         "times":[
+            "-1:00/0:30",
+            "-1:00/0:30",
+            "-1:00/0:30",
+            "-1:00/0:30",
+            "-1:00/0:30",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Literacy Essentials",
+         "description":"This course is designed to provide direct, explicit and intensive reading and writing instruction to students who are two or more years below expected proficiency. Basic objectives of this course are focused on closing the gap between the students’ present level of performance and the level of performance needed to successfully access the general curriculum.",
+         "superCategory":"Classes",
+         "category":"english",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Literacy Lab 1",
+         "description":"Literacy LAB (Literacy Access Bridge) 1 provides students who are reading and/or writing below expected proficiency with direct instruction of content area reading and writing skills. The course emphasizes the reading and writing skills necessary for understanding the content of mathematics, science, social studies, and English, and the communication skills appropriate across disciplines.",
+         "superCategory":"Classes",
+         "category":"english",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Journalism 1",
+         "description":"In Journalism 1, students learn the history and language of journalism; develop communication skills in writing, designing and editing for a variety of media; understand news and the process of publication; and become more critical readers and consumers of mass media. This course prepares students for continued study in journalism, photojournalism, and broadcast journalism.",
+         "superCategory":"Classes",
+         "category":"english",
+         "times":[
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Creative Writing 1",
+         "description":"This course provides students an opportunity for additional writing instruction beyond the standard English program. Experimentation with many forms of writing is encouraged, with an emphasis on poetry, fiction plays, and other forms of descriptive writing. Students continue to expand and refine their ability to write through analyzing and evaluating their own writing and that of other students.",
+         "superCategory":"Classes",
+         "category":"english",
+         "times":[
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Debate",
+         "description":"The debate course is designed to develop students' creative and critical thinking, research, speaking, listening, and argumentation skills. Students engage in mock trials, Model Congress, and Policy Debate.",
+         "superCategory":"Classes",
+         "category":"english",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Forensics",
+         "description":"Forensics provides students with an opportunity to practice and develop proficiency in oral communication techniques. Students sharpen their skills in a chosen area of concentration such as oral interpretation, extemporaneous speaking, or original oratory. Students are encouraged to use their skills in speech competition or performance.",
+         "superCategory":"Classes",
+         "category":"english",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Film Study",
+         "description":"Throughout the course, students analyze the techniques filmmakers use to create visual stories in a variety of films from different time periods, genres, and cultures. In addition, students apply their film analysis skills to produce original works.",
+         "superCategory":"Classes",
+         "category":"english",
+         "times":[
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"English 9 For English Learners",
+         "description":"This course is designed to develop content understandings and English language proficiency simultaneously. Students read and analyze a variety of linguistically appropriate literary and nonfiction texts, exploring the characteristics of different forms and the techniques authors use to achieve their intended purpose. Language study extends students' vocabulary through learning about connotations, denotations, word origins, and structures. Students apply their understanding of grammar, capitalization, punctuation, spelling, sentence structure, and paragraphing to varied and frequent writing assignments. Through narrative, expository, and persuasive writings, students build on their understanding of writing as a process of prewriting, drafting, revising, and publishing. In the research process, students find, evaluate, and select appropriate sources to access information to create a research product. They also develop communication skills through listening to and practicing oral presentations. This course is aligned to the WIDA English language development standards and the English 9 Standards of Learning. (This is a Standards of Learning aligned course, which is tested in 11th grade.)",
+         "superCategory":"Classes",
+         "category":"esol",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"English Lang Dev (level 1)",
+         "description":"English learners develop their English language proficiency and English literacy skills through a balanced literacy approach. Students engage in tasks that support academic language development in the four domains—reading, writing, listening and speaking. Ongoing formal and informal assessment data are used to appropriate place and transition students through the levels of the ELD courses. This course is aligned to the WIDA English language development (ELD) standards and the grade-level English standards of learning.",
+         "superCategory":"Classes",
+         "category":"esol",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"English Lang Dev (level 2)",
+         "description":"English learners develop their English language proficiency and English literacy skills through a balanced literacy approach. Students engage in tasks that support academic language development in the four domains—reading, writing, listening and speaking. Ongoing formal and informal assessment data are used to appropriate place and transition students through the levels of the ELD courses. This course is aligned to the WIDA English language development (ELD) standards and the grade-level English standards of learning.",
+         "superCategory":"Classes",
+         "category":"esol",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"English Lang Dev (level 3)",
+         "description":"English learners develop their English language proficiency and English literacy skills through a balanced literacy approach. Students engage in tasks that support academic language development in the four domains—reading, writing, listening and speaking. Ongoing formal and informal assessment data are used to appropriate place and transition students through the levels of the ELD courses. This course is aligned to the WIDA English language development (ELD) standards and the grade-level English standards of learning.",
+         "superCategory":"Classes",
+         "category":"esol",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"English Lang Dev (level 4)",
+         "description":"This course is taken concurrently with Transitional English 9 or English 9. ESOL and English teachers work together to provide a comprehensive program based on the FCPS English 9 POS. Students read a variety of literature and relate life situations to literary themes. They continue to develop their reading and writing skills and study the structure of the English language through an integrated language arts curriculum. Students refine their listening and speaking skills through class discussions and oral presentations. This course may be repeated for elective credit.",
+         "superCategory":"Classes",
+         "category":"esol",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Esol Individual Math Double Block",
+         "description":"The course is designed for WIDA ELP Level 1 & 2 students with significant gaps in mathematics to support the development of the mathematics and language skills necessary for success in Algebra 1. Over the period of one year meeting daily, students examine algebra- and geometry-preparatory concepts and skills; strategies for collecting, analyzing, and interpreting data; and number concepts and skills emphasizing proportional reasoning. Problem solving, communication, concept representation, and connections among mathematical ideas are presented in a hands-on learning environment. Students may need up to two years to complete the course, but should move to the next course as soon as their mathematics skills warrant. This course emphasizes language objectives in addition to mathematics objectives and does not meet the mathematics graduation requirements; students earn elective credit.",
+         "superCategory":"Classes",
+         "category":"esol",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Strategies For Success For English Learners",
+         "description":"This elective course is designed to provide support English Learners in core curricular areas and to provide direct instruction in specific learning strategies, study skills, time management, organization, and self-advocacy skills to develop the habits necessary for academic success. Students will gain skills in personal development and socio-emotional awareness skills. In addition, this course will teach strategies to enhance English language development in the four language domains of reading, writing, listening and speaking. Students will participate in building a strong classroom and school community through class meetings and intercultural communication. Students who successfully complete the course will earn an elective credit. Students successfully completing two years of this course will satisfy the sequential elective requirement for the Standard Diploma.",
+         "superCategory":"Classes",
+         "category":"esol",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Literacy Essentials",
+         "description":"This course is designed to provide direct, explicit and intensive reading instruction to English Learners with an English Language Proficiency (ELP) level 1 who have significant gaps in their home language instruction and literacy. With the goal to equip students for success in core classes, instruction will focus on the essential components of reading which include phonemic awareness, phonics, reading fluency (including oral skills), vocabulary development and reading comprehension strategies through engaging student centered learning. Due to the targeted and foundational nature of the reading course, student placement in this course is dependent upon assessment outcomes as well as information gathered and reviewed through a SIFE Consultation. Students placed in Developmental Reading may defer enrollment in English 9 for ELs if appropriate for a period of one year while enrolled in this class. Parents must be informed of this placement decision, and a meeting with the parents is recommended to review the student data and student needs.",
+         "superCategory":"Classes",
+         "category":"esol",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Academy Dance 1",
+         "description":"Students will develop fundamental skills in dance through movement, placement, alignment, and technique for selected dance forms which may include ballet, jazz, modern, tap, and social dances. . Students will cultivate dance vocabulary, study dance history, and develop improvisational and performance skills. For more information, visit the academy web site.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Hip Hop Dance",
+         "description":"This high-energy introductory course will focus on the foundations and origins of Hip-Hop dance culture including street, commercial and freestyle forms. Students will be encouraged to step outside of the box by bringing their own individual style and personality to movements. Students will be challenged and encouraged to understand and apply historical and practical knowledge of Hip-Hop through class activities and performances. For more information, visit the academy web site.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Broadway Theatre Dance",
+         "description":"This introductory course is designed to offer instruction in techniques of Broadway dance. Students will study movement in a variety of theatrical styles such as jazz and tap. Students will also increase their knowledge of Broadway’s most high-profile choreographers and their famous works. Students will gain the ability to apply dance technique and learn to express musicality in a physical way through class activities and performances.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Beginning Band",
+         "description":"Students develop skills as individual musicians and as members of a musical group. Guidance will be given by the instructor in the selection of an instrument. Course content includes beginning level technical and ensemble skills necessary for performance. Some performance opportunities are provided. Marching band techniques and performances may be included. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Concert Band",
+         "description":"Students continue developing as individual musicians and as members of a musical group. Emphasis is placed on the development of intermediate level technical and ensemble skills necessary for performance. Marching band techniques and performances may be included. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Intermediate Band Level 2",
+         "description":"Students continue developing as individual musicians and as members of a musical group. Emphasis is placed on the development of intermediate level technical and ensemble skills necessary for performance. Marching band techniques and performances may be included. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Intermediate Band Level 3",
+         "description":"Students continue developing as individual musicians and as members of a musical group. Emphasis is placed on the development of intermediate level technical and ensemble skills necessary for performance. Marching band techniques and performances may be included. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Advanced Band",
+         "description":"Students in this course form the representative performing band for the school. Emphasis is placed on the sequential development of advanced technical skills and on the study of related literature. Based on successful completion of sequential concepts for each level, students will continue to learn advanced musical concepts. Marching band techniques, rehearsals, and performances are required in this course. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Percussion Ensemble",
+         "description":"The percussion ensemble class is designed to meet specific needs of percussionists. Content includes study of the appropriate ensemble literature, and rehearsal and performance techniques from the various areas of musical composition. Instrumentation of the group is at the discretion of the instructor. Marching band techniques and performances may be included. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Beginning Orchestra",
+         "description":"Students develop skills as individual musicians and as members of a musical group. Guidance will be given by the instructor in the selection of an instrument. Course content includes beginning level technical and ensemble skills necessary for performance. Some performance opportunities are provided. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Intermediate Orchestra",
+         "description":"Students continue developing as individual musicians and as members of a musical group. Emphasis is placed on the development of intermediate level technical and ensemble skills necessary for performance. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:13",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Advnaced Orchestra Level 1",
+         "description":"Students in this course form the representative string performing group for the school. Emphasis is placed on the sequential development of advanced technical, ensemble, and disciplinary skills necessary for refined rehearsal and performance both in and out of school. Based on successful completion of sequential concepts for each level, students will continue to learn advanced musical concepts., students will continue as specified in course level. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Advanced Orchestra Level 2",
+         "description":"Students continue developing as individual musicians and as members of a musical group. Emphasis is placed on the development of advanced level technical and ensemble skills necessary for performance. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Advanced Orchestra Level 3",
+         "description":"Students in this course form the representative string performing group for the school. Emphasis is placed on the sequential development of advanced technical, ensemble, and disciplinary skills necessary for refined rehearsal and performance both in and out of school. Based on successful completion of sequential concepts for each level, students will continue as specified in the course. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Treble Chorus",
+         "description":"Students will participate in a chorus of higher voices with an emphasis on correct vocal performance techniques. Based on successful completion of sequential concepts, students will continue to learn progressive musical concepts and build sight-singing through the study of appropriate choral literature. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Basso Chorus",
+         "description":"Students will participate in a chorus of lower voices with an emphasis on correct vocal performance techniques. Based on successful completion of sequential concepts, students will continue to learn progressive musical concepts and build sight-singing through the study of appropriate choral literature. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Intermediate Treble Chorus",
+         "description":"Students will participate in an intermediate level of higher voices and continue to study correct vocal production, sight-singing, and development of musicianship through appropriate choral literature. Based on successful completion of sequential concepts for each level, students will continue as specified in the course. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Advanced Mixed Chorus",
+         "description":"Students are offered advanced choral experiences for mixed voices. Emphasis is placed on the development of musicianship and proficiency in ensemble performance. Course content includes a study of choral literature, vocal techniques, and sight-singing. Based on successful completion of sequential concepts for each level, students will continue to learn advanced musical concepts.. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Advnaced Treble Chorus Women",
+         "description":"Students are offered advanced choral experiences for higher voices. Emphasis is placed on the development of musicianship and proficiency in ensemble performance. Course content includes a study of choral literature, vocal techniques, and sight-singing. Based on successful completion of sequential concepts for each level, students will continue as specified in the course Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Advanced Basso Chorus",
+         "description":"Students are offered advanced choral experiences for lower voices. Emphasis is placed on the development of musicianship and proficiency in ensemble performance. Course content includes a study of choral literature, vocal techniques, and sight-singing. Based on successful completion of sequential concepts for each level, students will continue as specified in the course Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Music Sampler",
+         "description":"Students are provided the opportunity to sample a variety of musical experiences in a non-performing music class. Course content includes beginning guitar and class piano experience, as well as various modules designed to assist students in developing music reading and composing skills. Selected composers and musical compositions will be studied as a part of this course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Music Theory",
+         "description":"Emphasis is placed on developing and understanding basic music theory skills. Course content includes recognizing and notating: all major and minor scales, rhythms in simple and compound meters, and triadic chord structures. Composition skills in standard notation of simple melodies, with accompanying chords and keyboard performance of simple tunes, may also be included. Students will become acquainted with appropriate musical terms.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:06",
+				"-1:00/0:06",
+				"-1:00/0:06",
+				"-1:00/0:06",
+				"-1:00/0:06",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Guitar 1",
+         "description":"Students learn the fundamentals of guitar. Guitar instruction emphasizes basic technique, reading, progressions, and music theory. Instructional literature is selected from classical and contemporary repertoire. Guest artists and field trips to performances and/or seminars may also be part of the curriculum.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Guitar 2",
+         "description":"Students continue to develop skills on the guitar. Guitar instruction emphasizes intermediate technique, reading, progressions, and music theory. Instructional literature is selected from classical and contemporary repertoire. Guest artists and field trips to performances and/or seminars may also be part of the curriculum.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Guitar 3",
+         "description":"Students continue to develop skills on the guitar. Guitar instruction emphasizes advanced technique, reading, progressions, and music theory. Instructional literature is selected from classical and contemporary repertoire. Guest artists and field trips to performances and/or seminars may also be part of the curriculum.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Guitar Ensemble",
+         "description":"Students in this course form one of the representative performing guitar ensembles for the school. Emphasis is placed on the sequential development of advanced technical skills and on the study of related literature. Based on successful completion of sequential concepts for each level, students will continue as specified in course level. Students must meet both the school day and outside of the school day participation requirements to receive credit for the course.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Theatre Arts 1",
+         "description":"Theatre Arts 1 is a foundations course that introduces students to dramatic literature, theatre history, technical theatre, artistic leadership, and acting. This course provides opportunities for students to experience and participate in the creative processes of performance and production. This course emphasizes skill development and provides theatrical opportunities that enable students to determine personal areas of interest. Participation in co-curricular activities and performances may be required to receive credit for this course.. This course may be used to satisfy the graduation requirement for a credit in fine l arts.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Technical Theatre 1",
+         "description":"Students explore various areas of technical theatre such as lighting, costumes, sound, scenery, makeup, properties, and theatre management. An analysis of dramatic literature leads students to an understanding of the design and production process. Participation in co-curricular activities and productions may be required to receive credit for this course. This course may be used to satisfy the graduation requirement for a credit in fine arts.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Studio Art And Design 1",
+         "description":"Explore a variety of exciting opportunities and materials to inform the artmaking process. Learn to think conceptually and realize potential as a creative and critical thinker in order to meet the challenges of 21st century living. Explore personal interests while developing skills in the areas of drawing, painting, printmaking, ceramics, sculpture, and digital media. Course content includes art production, art appreciation, and studies in visual culture.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Digital Art And Design 1",
+         "description":"Think creatively and solve visual problems to create personally expressive, original artworks using technology. Develop expertise in the use of computers, scanners, and digital cameras for artmaking. Use Adobe Photoshop, Adobe Illustrator, Bryce 3-D, and Adobe Flash in the areas of motion graphics/animation, graphic design, and digital imaging. Learn to address ethical issues concerning computer generated imagery. No prior computer experience is required.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Photography 1",
+         "description":"Explore and practice standard black and white photographic processes through the use of cameras, films, light effects, and the application of basic darkroom techniques. Explore and practice digital photographic processes. Produce meaningful photographs that express ideas about experiences and observations of the world. Study the history of photography and the work of well known photographers to inform artmaking. Develop a beginning portfolio.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Visual Communications 1",
+         "description":"Develop and apply techniques in visual communication through the use of traditional and electronic media. Create original artworks for a variety of intended purposes such as personal, commercial, informational, social, cultural and environmental. Develop an understanding of ways in which artists communicate meaningful ideas for a specific purpose or intent. Become familiar with ethical issues related to the field of visual communications. Maintain a traditional and non-traditional sketchbook in addition to compiling a beginning visual communications portfolio.",
+         "superCategory":"Classes",
+         "category":"fine arts",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Strategies For Success",
+         "description":"This elective course is designed to provide support to a student in core curricular areas and to provide direct instruction in specific learning strategies, study skills, time management, organization, and self-advocacy skills. Time is also allotted to address individual areas of need. While students may receive assistance on core curricular assignments, the course is not designed to serve as a study hall. Students enrolled in the course receive the equivalent of one period of instruction each day and earn an elective credit. This course may be taught for an elective credit all four years or more, as appropriate. Students successfully completing two years of this course will satisfy the sequential elective requirement for the Advanced or Standard Diploma.",
+         "superCategory":"Classes",
+         "category":"general",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Leadership Training 1",
+         "description":"This course provides leadership training to interested students. It is especially appropriate for student body officers, organizational leaders, and class officers. The course includes understanding leadership, assessment of leadership styles, planning and organization skills, relationship building and problem solving. Focus will be placed on organization, time management, election processes, financial planning, opinion surveys, communication techniques, and becoming a community liaison. Student government and class activities will be the basis around which most of the course work is designed.",
+         "superCategory":"Classes",
+         "category":"general",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Health And Physical Education 9",
+         "description":"Students gain knowledge and skills in a variety of individual, dual, and team sports/activities to develop competencies to promote an active lifestyle. Students begin to apply personal fitness planning concepts to individualized plans. One quarter of the course includes instruction in the health education topics of alcohol, tobacco, and other drug use prevention; emotional and social health; personal health; injury and violence prevention; disease prevention; human growth and development; and cardiopulmonary resuscitation, automated external defibrillation (CPR and AED) and first aid.",
+         "superCategory":"Classes",
+         "category":"health and p/e",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Adapted Health And Physical Education",
+         "description":"The adapted health and physical education course is a modified version of the general health and physical education course and is designed for students who have IEPs indicating adapted physical education services in a special education setting. Students gain knowledge and skills in a variety of team sports/activities and participate in individualized personal fitness plans to promote an active lifestyle. Activities are designed for the student’s present level of performance and directed to improve deficit areas and maximize participation. Students will participate in modified health education units required of their grade level.",
+         "superCategory":"Classes",
+         "category":"health and p/e",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Sports Medicine",
+         "description":"Students will study and apply concepts related to medical professions, anatomy and physiology of skeletal and muscular systems, kinesiology, types of injuries, injury prevention and nutrition. Students may not take this course in lieu of the grade 9 or grade 10 Health or Physical Education requirements.",
+         "superCategory":"Classes",
+         "category":"health and p/e",
+         "times":[
+            "-1:00/0:10",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Intro Foreign Lang",
+         "description":"Students are introduced to one or more world languages and cultures. The languages most often studied are French, German, Latin, and Spanish, but Chinese, Japanese, and Russian may also be included. Students learn the most basic structures, vocabulary, and expressions in each language and study the culture of the people who speak them. They are exposed to the basic steps and study habits necessary to learn a world language. Students are made aware of how knowledge of world languages enriches a person's life and expands the options of career goals. The course can include multiple languages. This course does not count as a world languages credit.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"American Sign Language 1",
+         "description":"Students develop the ability to communicate about themselves and their immediate environment using simple sentences containing basic language structures. This communication is evidenced in signing, receiving signs and non-manual gestures, and reading. Students begin to explore and study the themes of Personal and Family Life, School Life, Social Life, and Community Life. This course may be counted as a world languages course in fulfilling requirements for the Advanced Studies Diploma.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"American Sign Language 2",
+         "description":"Students continue to develop proficiency in American Sign Language. They learn to function in real-life situations using more complex language structures and a wider range of vocabulary. Students continue to explore as they study the themes of Home Life, Student Life, Leisure Time, and Vacation and Travel. This course may be counted as a world languages course in fulfilling requirements for the Advanced Studies Diploma.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Arabic 1",
+         "description":"In this electronic classroom course, students develop the ability to communicate about themselves and their immediate environment using simple sentences containing basic language structures. This communication is evidenced in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to communicate orally and in writing. Students begin to explore and study the themes of Personal and Family Life, School Life, Social Life, and Community Life. Schools must have a facilitator on hand to proctor tests, ensure students are on task, and forward information to the instructor. Schools must provide adequate study area for distance learning students.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Arabic 2",
+         "description":"In this electronic classroom course, students continue to develop proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to communicate orally and in writing. They learn to function in real-life situations using more complex sentences and language structures. They read material on familiar topics and produce short writing samples. Students continue to explore as they study the themes of Home Life, Student Life, Leisure Time, and Vacation and Travel. Schools must have a facilitator on hand to proctor tests, ensure students are on task, and forward information to the instructor. Schools must provide adequate study area for distance learning students.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Arabic 3",
+         "description":"In this electronic classroom course, students continue to develop and refine their proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to interact orally and in writing. They communicate using more complex language structures on a variety of topics, moving from concrete to more abstract concepts. At this level, students comprehend the main ideas of the authentic materials that they read and hear, and they are able to identify significant details when the topics are familiar. Students gain a deeper understanding of the world around them while studying Rights and Responsibilities, Future Plans and Choices, Teen Culture, Environment, and Humanities. Schools must have a facilitator on hand to proctor tests, ensure students are on task, and forward information to the instructor. Schools must provide adequate study area for distance learning students.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"French 1",
+         "description":"Students develop the ability to communicate about themselves and their immediate environment using simple sentences containing basic language structures. This communication is evidenced in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to communicate orally and in writing. Students begin to explore and study the POS themes of Personal and Family Life, School Life, Social Life, and Community Life. For middle school students, this credit becomes a part of the high school transcript, is included in the determination of the high school grade point average (GPA), and counts toward fulfilling the world languages requirement of the high school Advanced Studies diploma. It also counts toward the total number of credits required for graduation.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"French 2",
+         "description":"Students continue to develop proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to communicate orally and in writing. They learn to function in real-life situations using more complex sentences and language structures. They read material on familiar topics and produce short writing samples. Students continue to explore as they study the POS themes of Home Life, Student Life, Leisure Time, and Vacation and Travel.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"French 3",
+         "description":"Students continue to develop and refine their proficiency in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to interact orally and in writing. They communicate using more complex language structures on a variety of topics, moving from concrete to more abstract concepts. At this level, students comprehend the main ideas of the authentic materials that they read and hear and are able to identify significant details when the topics are familiar. Students gain a deeper understanding of the world around them while studying the POS themes of Rights and Responsibilities, Future Plans and Choices, Teen Culture, Environment, and Humanities.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"German 1",
+         "description":"Students develop the ability to communicate about themselves and their immediate environment using simple sentences containing basic language structures. This communication is evidenced in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to communicate orally and in writing. Students begin to explore and study the POS themes of Personal and Family Life, School Life, Social Life, and Community Life. For middle school students, this credit becomes a part of the high school transcript, is included in the determination of the high school grade point average (GPA), and counts toward fulfilling the world languages requirement of the high school Advanced Studies diploma. It also counts toward the total number of credits required for graduation.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"German 2",
+         "description":"Students continue to develop proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to communicate orally and in writing. They learn to function in real-life situations using more complex sentences and language structures. They read material on familiar topics and produce short writing samples. Students continue to explore as they study the POS themes of Home Life, Student Life, Leisure Time, and Vacation and Travel.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:05",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"German 3",
+         "description":"Students continue to develop and refine their proficiency in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to interact orally and in writing. They communicate using more complex language structures on a variety of topics, moving from concrete to more abstract concepts. At this level, students comprehend the main ideas of the authentic materials that they read and hear and are able to identify significant details when the topics are familiar. Students gain a deeper understanding of the world around them while studying the POS themes of Rights and Responsibilities, Future Plans and Choices, Teen Culture, Environment, and Humanities.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:05",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:03",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Latin 1",
+         "description":"Students learn basic language structures and essential elements of Latin pronunciation in order to be able to read simple passages in Latin. The relationship of English to Latin is emphasized in vocabulary building, word derivation, and meanings of prefixes and suffixes. Language structures and syntax are developed through the study of literary passages. The geography, history, government and the culture of the Roman Empire are studied. For middle school students, this credit becomes a part of the high school transcript, is included in the determination of the high school grade point average (GPA), and counts toward fulfilling the world languages requirements of the high school Advanced Studies diploma. It also counts toward the total number of credits required for graduation.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Latin 2",
+         "description":"Students learn additional vocabulary, more complex language structures and syntax in order to be able to read more challenging passages in Latin. Language structures and syntax are developed through the study of literary passages. Students continue to explore as they study Roman life and Rome's contribution to our civilization.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Latin 3",
+         "description":"Students continue to develop and refine their reading skills through the study of Latin literature. Additional vocabulary, more complex language structures and syntax are emphasized in order to be able to read the writings of prose authors. Through translation and interpretation, students gain a greater understanding of the foundation of Western government and civilization.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:20",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Italian 1",
+         "description":"Students develop the ability to communicate about themselves and their immediate environment using simple sentences containing basic language structures. This communication is evidenced in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to communicate orally and in writing. Students begin to explore and study the POS themes of Personal and Family Life, School Life, Social Life, and Community Life. For middle school students, this credit becomes a part of the high school transcript, is included in the determination of the high school grad point average (GPA), and counts toward fulfilling the world languages requirement of the high school Advanced Studies diploma. It also counts toward the total number of credits required for graduation.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Italian 2",
+         "description":"Students continue to develop proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to communicate orally and in writing. They learn to function in real-life situations using more complex sentences and language structures. They read material on familiar topics and produce short writing samples. Students continue to explore as they study the POS themes of Home Life, Student Life, Leisure Time and Vacation and Travel.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Italian 3",
+         "description":"Students continue to develop and refine their proficiency in all four language skills – listening, speaking, reading and writing – with emphasis on the ability to interact orally and in writing. They communicate using more complex language structures on a variety of topics, moving from concrete to more abstract concepts. At this level, students comprehend the main ideas of the authentic materials that they read and hear and are able to identify significant details when the topics are familiar. Students gain a deeper understanding of the world around them while studying the POS themes of Rights and Responsibilities, Future Plans and Choices, Teen Culture, Environment, and Humanities.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:12",
+				"-1:00/0:12",
+				"-1:00/0:12",
+				"-1:00/0:12",
+				"-1:00/0:12",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Spanish 1",
+         "description":"Students develop the ability to communicate about themselves and their immediate environment using simple sentences containing basic language structures. This communication is evidenced in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to communicate orally and in writing. Students begin to explore and study the POS themes of Personal and Family Life, School Life, Social Life, and Community Life. For middle school students, this credit becomes a part of the high school transcript, is included in the determination of the high school grade point average (GPA), and counts toward fulfilling the world languages requirements of the high school Advanced Studies diploma. It also counts toward the total number of credits required for graduation.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Spanish 2",
+         "description":"Students continue to develop proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to communicate orally and in writing. They learn to function in real-life situations using more complex sentences and language structures. They read material on familiar topics and produce short writing samples. Students continue to explore as they study the POS themes of Home Life, Student Life, Leisure Time, and Vacation and Travel.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:12",
+				"-1:00/0:12",
+				"-1:00/0:12",
+				"-1:00/0:12",
+				"-1:00/0:12",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Spanish 3",
+         "description":"Students continue to develop and refine their proficiency in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to interact orally and in writing. They communicate using more complex language structures on a variety of topics, moving from concrete to more abstract concepts. At this level, students comprehend the main ideas of the authentic materials that they read and hear and are able to identify significant details when the topics are familiar. Students gain a deeper understanding of the world around them while studying the POS themes of Rights and Responsibilities, Future Plans and Choices, Teen Culture, Environment, and Humanities.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Arabic 1",
+         "description":"Students develop the ability to communicate about themselves and their immediate environment using simple sentences containing basic language structures. This communication is evidenced in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to communicate orally and in writing. Students begin to explore and study the themes of Personal and Family Life, School Life, Social Life, and Community Life. For middle school students, this credit becomes a part of the high school transcript, is included in the determination of the high school grade point average (GPA), and counts toward fulfilling the world languages requirement of the high school Advanced Studies diploma. It also counts toward the total number of credits required for graduation.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Arabic 2",
+         "description":"Students continue to develop proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to communicate orally and in writing. They learn to function in real-life situations using more complex sentences and language structures. They read material on familiar topics and produce short writing samples. Students continue to explore as they study the themes of Home Life, Student Life, Leisure Time, and Vacation and Travel.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Arabic 3",
+         "description":"Students continue to develop and refine their proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to interact orally and in writing. They communicate using more complex language structures on a variety of topics, moving from concrete to more abstract concepts. At this level, students comprehend the main ideas of the authentic materials that they read and hear, and they are able to identify significant details when the topics are familiar. Students gain a deeper understanding of the world around them while studying Rights and Responsibilities, Future Plans and Choices, Teen Culture, Environment, and Humanities.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Chinese 1",
+         "description":"Students develop the ability to communicate about themselves and their immediate environment using simple sentences containing basic language structures. This communication is evidenced in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to communicate orally and in writing. Students begin to explore and study the themes of Personal and Family Life, School Life, Social Life, and Community Life. This course is only offered at Fairfax Academy and Marshall Academy.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Chinese 2",
+         "description":"Students continue to develop proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to communicate orally and in writing. They learn to function in real-life situations using more complex sentences and language structures. They read material on familiar topics and produce short writing samples. Students continue to explore as they study the themes of Home Life, Student Life, Leisure Time, and Vacation and Travel. This course is only offered at Fairfax Academy and Marshall Academy.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Chinese 3",
+         "description":"Students continue to develop and refine their proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to interact orally and in writing. They communicate using more complex language structures on a variety of topics, moving from concrete to more abstract concepts. At this level, students comprehend the main ideas of the authentic materials that they read and hear, and they are able to identify significant details when the topics are familiar. Students gain a deeper understanding of the world around them while studying Rights and Responsibilities, Future Plans and Choices, Teen Culture, Environment, and Humanities. This course is only offered at the Marshall Academy.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Korean 1",
+         "description":"Students develop the ability to communicate about themselves and their immediate environment using simple sentences containing basic language structures. This communication is evidenced in all four language skills - listening, speaking, reading and writing - with emphasis on the ability to communicate orally and in writing. Students begin to explore and study the themes of Personal and Family Life, School Life, Social Life, and Community Life. The implementation of this course is contingent upon an enrollment of 25 students. This course is only offered at the Fairfax Academy.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Korean 2",
+         "description":"Students continue to develop proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to communicate orally and in writing. They learn to function in real-life situations using more complex sentences and language structures. They read material on familiar topics and produce short writing samples. Students continue to explore as they study the themes of Home Life, Student Life, Leisure Time, and Vacation and Travel. The implementation of this course is contingent upon an enrollment of 25 students. This course is only offered at the Fairfax Academy.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Korean 3",
+         "description":"During this fall semester course students continue to develop and refine their proficiency in all four language skills - listening, speaking, reading, and writing - with emphasis on the ability to interact orally and in writing. They communicate using more complex language structures on a variety of topics, moving from concrete to more abstract concepts. At this level, students comprehend the main ideas of the authentic materials that they read and hear, and they are able to identify significant details when the topics are familiar. Students gain a deeper understanding of the world around them while studying Rights and Responsibilities, Future Plans and Choices, Teen Culture, Environment, and Humanities. The implementation of this course is contingent upon an enrollment of 25 students. This course is only offered at the Fairfax Academy. Students who sign up for Korean 3 in the fall semester must take Korean 4 in the spring semester.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Korean 4",
+         "description":"During this spring semester course students develop more sophisticated communication skills in all four areas - listening, speaking, reading and writing - with emphasis on the ability to interact orally and in writing. The authentic reading selections are emphasized at this level. Students communicate using more complex language structures and express abstract ideas with reasonable fluency. Students are able to create and listen with understanding to reports and presentations. They are also able to describe, summarize and discuss selected upper level POS themes and topics. The implementation of this course is contingent upon an enrollment of 25 students. This course is only offered at the Fairfax Academy. Students who sign up for Korean 4 in the spring semester must have taken Korean 3 in the fall semester.",
+         "superCategory":"Classes",
+         "category":"languages",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Algebra 1 Part 1",
+         "description":"Algebra 1 / Part 1 extends students' understanding of the real number system and its properties through the study of variables, expressions, equations, inequalities, and analysis of data derived from real-world phenomena. Topics include linear equations and inequalities, linear relations and functions, measures of central tendency (mean, median, mode), data analysis and review of middle school objectives as needed. Algebra 1 / Part 1 includes approximately sixty percent of the Virginia Standards of Learning for Algebra 1. Students who began 9th grade during the 2009-2010 school year or earlier must pass Algebra 1 to receive mathematics graduation credit for Algebra 1 / Part 1. This course will not count towards a mathematics graduation credit for students who start 9th grade during the 2010-2011 school year or later.",
+         "superCategory":"Classes",
+         "category":"mathematics",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Algebra 1",
+         "description":"This course extends students' knowledge and understanding of the real number system and its properties through the study of variables, expressions, equations, inequalities, and analysis of data derived from real-world phenomena. Emphasis is placed on making connections in algebra to geometry and statistics. Calculators and computer technologies are integral tools. Graphing calculators are an essential tool for every student to explore graphical, numerical, and symbolic relationships.",
+         "superCategory":"Classes",
+         "category":"mathematics",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:10",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Algebra 1 Honors",
+         "description":"The depth and level of understanding expected in Algebra I Honors is beyond the scope of Algebra I. Students are expected to master algebraic mechanics and understand the underlying theory, as well as apply the concepts to real-world situations in a meaningful way. Students extend knowledge and understanding of the real number system and its properties through the study of variables, expressions, equations, inequalities, and the analysis of data from real world phenomena. Emphasis is placed on algebraic connections to arithmetic, geometry, and statistics. Calculators and computer technologies are integral tools. Graphing calculators are an essential tool for every student to explore graphical, numerical, and symbolic relationships. Topics include linear equations and inequalities, systems of linear equations, relations, functions, polynomials, and statistics.",
+         "superCategory":"Classes",
+         "category":"mathematics",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Geometry",
+         "description":"This course emphasizes two- and three-dimensional reasoning skills, coordinate and transformational geometry, and the use of geometric models to solve problems. A variety of applications and some general problem-solving techniques, including algebraic skills, will be used to explore geometric relationships. Conjectures about properties and relationships are developed inductively and then verified deductively. Calculators, computers, graphing utilities, dynamic geometry software, and other appropriate technology tools will be used to assist in teaching and learning.",
+         "superCategory":"Classes",
+         "category":"mathematics",
+         "times":[
+				"-1:00/0:20",
+				"-1:00/0:17",
+				"-1:00/0:17",
+				"-1:00/0:17",
+				"-1:00/0:17",
+				"-1:00/0:17",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Geometry Honors",
+         "description":"The depth and level of understanding expected in Geometry Honors is beyond the scope of Geometry. This course emphasizes two- and three-dimensional reasoning skills, coordinate and transformational geometry, and the use of geometric models to solve problems. A variety of applications and some general problem-solving techniques, including algebraic skills, will be used to explore geometric relationships. Conjectures about properties and relationships are developed inductively and then verified deductively. Students investigate non-Euclidean geometries, formal logic, and use deductive proofs to verify theorems. Calculators, computers, graphing utilities, dynamic geometry software, and other appropriate technology tools will be used to assist in teaching and learning.",
+         "superCategory":"Classes",
+         "category":"mathematics",
+         "times":[
+				"-1:00/0:25",
+				"-1:00/0:22",
+				"-1:00/0:22",
+				"-1:00/0:22",
+				"-1:00/0:22",
+				"-1:00/0:22",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Algebra 2",
+         "description":"Algebra 2 provides a thorough treatment of algebraic concepts through the study of functions, polynomials, rational expressions, complex numbers, exponential and logarithmic equations, arithmetic and geometric sequences and series, and data analysis. Emphasis is placed on the mechanics of algebra with real world applications and modeling. A transformational approach to graphing is used with families of related graphs. Numerical, graphical, and algebraic solutions are considered for all problems as applicable. Graphing utilities, especially graphing calculators, are integral to the course.",
+         "superCategory":"Classes",
+         "category":"mathematics",
+         "times":[
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:15",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Algebra 2 Honors",
+         "description":"The depth and level of understanding expected in Algebra 2 Honors is beyond the scope of Algebra 2. Students are expected not only to master algebraic mechanics but also to understand the underlying theory and to apply the concepts to real-world situations in a meaningful way. A thorough treatment of advanced algebraic concepts is provided through the study of functions, polynomials, rational expressions, complex numbers, matrices, exponential and logarithmic equations, infinite geometric sequences and series, permutations and combinations, data analysis, and selected topics in discrete mathematics. Emphasis is on modeling, logic, and interpretation of results. A transformational approach to graphing is used with families of related graphs. Numerical, graphical, and algebraic solutions are considered for all problems, as applicable. Graphing utilities, especially graphing calculators, are integral to the course.",
+         "superCategory":"Classes",
+         "category":"mathematics",
+         "times":[
+				"-1:00/0:25",
+				"-1:00/0:25",
+				"-1:00/0:25",
+				"-1:00/0:25",
+				"-1:00/0:25",
+				"-1:00/0:25",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Computer Science",
+         "description":"Students develop detailed knowledge of the fundamental structure of a computer system, with emphasis on problem solving and structured programming. Skills in defining, writing, and running programs on a computer are developed through an individual approach that allows the student to work with both mathematical and non-mathematical problems. Java will be the primary programming language.",
+         "superCategory":"Classes",
+         "category":"mathematics",
+         "times":[
+				"-1:00/0:10",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:07",
+				"-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Algebra 2 Strategies",
+         "description":"This course is designed for students enrolled in Algebra 2 who would benefit from extended work building foundational Algebra skills. Students will explore the mathematics process goals in-depth while building algebraic proficiencies. The materials in this course support the core curriculum instructed in Algebra 2. Algebra 2 strategies is to be taken concurrently with Algebra 2.",
+         "superCategory":"Classes",
+         "category":"mathematics",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Biology 1",
+         "description":"In Biology 1, students engage in scientific inquiry through lab work as they explore biological processes. All class and laboratory activities focus on life processes that occur within organisms or cells as well as the characteristics of life including: reproduction, development, and adaptation to environment. Major topics of study include molecular biology, cells, genetics, organisms, evolution and ecology. If dissections are a part of the laboratory experience, alternatives are available.",
+         "superCategory":"Classes",
+         "category":"science",
+         "times":[
+            "-1:00/0:09",
+            "-1:00/0:09",
+            "-1:00/0:09",
+            "-1:00/0:09",
+            "-1:00/0:07",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Biology 1 Honors",
+         "description":"In Biology 1 Honors, students engage in scientific inquiry as they explore biological processes. All class activities and laboratory activities focus on life processes that occur within organisms or cells as well as the characteristics of life including: reproduction, development, and adaptation to environment. Major topics of study include molecular biology, cells, genetics, organisms, evolution and ecology. In comparison to Biology 1, students will investigate some topics at a deeper level including biotechnology, health and environmental issues. Students, either independently or in teams will participate in an externally-moderated experimental/research project. If dissections are a part of the laboratory experience, alternatives are available.",
+         "superCategory":"Classes",
+         "category":"science",
+         "times":[
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:10",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"World History And Geography 1",
+         "description":"This is the first of a two-year, chronologically and thematically organized study of world history and geography. In this first year, students study the world from ancient times to 1500 CE. The course highlights relationships between the geography and history of Europe, Africa, Asia, and Latin America. Students refine and expand critical thinking skills, practice decision making and problem solving, and formulate questions to guide research. Additionally, students will apply social science skills -historical thinking, geographic analysis, economic decision making, and responsible citizenship – to course content. World History and Geography 1 is required for graduation.",
+         "superCategory":"Classes",
+         "category":"social studies",
+         "times":[
+            "-1:00/0:30",
+            "-1:00/0:30",
+            "-1:00/0:30",
+            "-1:00/0:30",
+            "-1:00/0:30",
+            "-1:00/0:30",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"World History And Geography 1 Honors",
+         "description":"This is the first of a two-year, chronologically and thematically organized study of world history and geography. In this first year, students study the world from ancient times to 1500 CE. The course highlights the relationship between the geography and history of Europe, Africa, Asia, and Latin America. Students examine the relationship among social, economic and geopolitical developments across time and place. They use the processes of conceptual and critical thinking to analyze historical and contemporary issues. Students are encouraged to think independently while developing group process skills. Additionally, students will apply social science skills -historical thinking, geographic analysis, economic decision making, and responsible citizenship – to course content. World History and Geography 1 Honors satisfies the World History and Geography 1 graduation requirement.",
+         "superCategory":"Classes",
+         "category":"social studies",
+         "times":[
+            "-1:00/1:05",
+            "-1:00/1:03",
+            "-1:00/1:03",
+            "-1:00/1:03",
+            "-1:00/1:03",
+            "-1:00/1:03",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Advanced Placement Human Geography",
+         "description":"The purpose of Advanced Placement Human Geography is to introduce students to the systematic study of patterns and processes that have shaped human understanding, use, interaction with, and alteration of the earth's surface. Students will use spatial concepts and landscape analysis to analyze human social organization and its environmental consequences. They also will learn about the methods and tools geographers use in their science and practice. This course prepares students to take the Advanced Placement examination in Human Geography, for which college credit and/or placement is given if a qualifying score is achieved. All students are required to take the Advanced Placement Human Geography exam.",
+         "superCategory":"Classes",
+         "category":"social studies",
+         "times":[
+            "-1:00/0:15",
+            "-1:00/0:12",
+            "-1:00/0:12",
+            "-1:00/0:12",
+            "-1:00/0:12",
+            "-1:00/0:12",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Foundations Of English 9-12",
+         "description":"Foundations of English, 9-12, is a one-credit elective course designed to support instruction along the FCPS Program of Studies and the VA Aligned Standards of Learning (ASOL) in the identified content area; does not require SOL testing. Students may enroll in this elective class each year of HS participation. Instruction is individualized based on needs identified in the IEP to help students gain a basic content vocabulary, knowledge and skills and designed to be taught at the learning pace of the individual students. Participation in Foundations courses will aid the student in fulfilling requirements of the Virginia Alternative Assessment Program (VAAP) and meet the requirements for an Applied Studies Diploma.",
+         "superCategory":"Classes",
+         "category":"special education",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Foundations Of Science",
+         "description":"Foundations of Science is a one-credit elective course designed to support instruction along the FCPS Program of Studies and the VA Aligned Standards of Learning (ASOL) in the identified content area; does not require SOL testing. Students may enroll in this elective class each year of HS participation. Instruction is individualized based on needs identified in the IEP to help students gain a basic content vocabulary, knowledge and skills and designed to be taught at the learning pace of the individual students. Participation in Foundations courses will aid the student in fulfilling requirements of the Virginia Alternative Assessment Program (VAAP)and meet the requirements for an Applied Studies Diploma.",
+         "superCategory":"Classes",
+         "category":"social studies",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Foundations Of World History And Geography",
+         "description":"Foundations of World History/Geography is a one-credit elective course designed to support instruction along the FCPS Program of Studies and the VA Aligned Standards of Learning (ASOL) in the identified content area; does not require SOL testing. Students may enroll in this elective class each year of HS participation. Instruction is individualized based on needs identified in the IEP to help students gain a basic content vocabulary, knowledge and skills and designed to be taught at the learning pace of the individual students. Participation in Foundations courses will aid the student in fulfilling requirements of the Virginia Alternative Assessment Program (VAAP) and meet the requirements for a Special Diploma.",
+         "superCategory":"Classes",
+         "category":"special education",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Individualized Mathematics",
+         "description":"The purpose of this course is to provide instruction of foundational mathematics skills to special education students who are functioning more than two years below grade level in mathematics. The course is designed to present the foundational skills necessary to enter Algebra 1 using manipulatives, special materials, and adaptive strategies. The course may include number concepts, mental mathematics, estimation, problem solving, operations, measurement, geometry, data analysis, statistics, probability, and fractions. This course should be reflected in the student's IEP. This course does not meet the mathematics graduation requirements for the Standard or Advanced Studies Diploma. Students earn elective credit.",
+         "superCategory":"Classes",
+         "category":"special education",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Literacy Essentials",
+         "description":"This course is designed to provide direct, explicit and intensive literacy instruction to students with disabilities who are reading and./or writing significantly below grade level. Basic objectives of this literacy course is focused on closing the gap between the student's present level of performance and the level of performance needed to successfully access the general curriculum. Instruction focuses on increasing student's decoding, fluency and comprehension skills of fiction and nonfiction materials, and improving writing skills across the curriculum which is based on the diagnosis of each student's needs as outlined through the student's Individual Education Program (IEP). Students successfully completing two years of this course will satisfy the sequential elective requirement for the Standard Diploma and the Standard Diploma with credit accommodations.",
+         "superCategory":"Classes",
+         "category":"special education",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Strategies For Success",
+         "description":"This elective course is designed to provide support to a student in core curricular areas and to provide direct instruction in specific learning strategies, study skills, time management, organization, and self-advocacy skills. Time is also allotted to address individual areas of need as identified in a student's Individual Educational Plan (IEP). While students may receive assistance on core curricular assignments, the course is not designed to serve as a study hall. Students enrolled in the course receive the equivalent of one period of instruction each day and earn an elective credit. This course may be taught for an elective credit all four years or more, as appropriate. Students successfully completing two years of this course will satisfy the sequential elective requirement for the Standard and Modified Standard Diploma. (Students may be awarded a half-credit upon completion of a full semester of placement in the Strategies for Success course. Such a decision is made by the school counselor in conjunction with the special education department chair.)",
+         "superCategory":"Classes",
+         "category":"special education",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Career Preparation",
+         "description":"This is an adapted curriculum elective geared to students needing intensive support. Instruction is very concrete with extensive physical modeling and assistance. Work experience may take place in the community, around the school, or in the classroom. This course is designed for students who are likely to age out of FCPS and work with the Community Services Board to select a day support or employment agency able to meet their support needs. This course is taught by adapted curriculum teachers. The course will identify work-related abilities, provide training and work skills, and prepare students for post-secondary participation in community-based worksites.",
+         "superCategory":"Classes",
+         "category":"special education",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Education For Employment Level 1",
+         "description":"This course teaches students to make informed career and continuing education choices as they transition from school, gain technical skills, and adapt to the workplace. Students are taught ethical behaviors and career-research, job-acquisition, workplace-communication, self- awareness, self-advocacy, customer-service, and life skills. Students successfully completing two years of this course will satisfy sequential elective requirements prescribed in certain diplomas.",
+         "superCategory":"Classes",
+         "category":"special education",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Education For Employment Level 2",
+         "description":"This course teaches students to make informed career and continuing education choices as they transition from school, gain technical skills, and adapt to the workplace. Students are taught ethical behaviors and career-research, job-acquisition, workplace-communication, self- awareness, self-advocacy, customer-service, and life skills. Students successfully completing two years of this course will satisfy sequential elective requirements prescribed in certain diplomas.",
+         "superCategory":"Classes",
+         "category":"special education",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"Education For Employment For The Office",
+         "description":"This course teaches students to make informed career and continuing education choices as they transition from school, gain technical skills, and adapt to the workplace. Students are taught ethical behaviors and career-research, job-acquisition, workplace-communication, self-awareness, self-advocacy, customer-service, MS Office applications, and to perform assignments essential to the operation of an office in a school or community business. This course can be taken for more than one year. Students successfully completing two years of this course will satisfy the sequential elective requirement for certain diploma options.",
+         "superCategory":"Classes",
+         "category":"special education",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      },
+      {
+         "name":"World Awareness And Transition",
+         "description":"This option is available to high school students receiving special education services. Students explore potential career options while developing/improving skills needed for success in employment such as interpersonal/co-worker relationships and self-advocacy skills. Students participate in career activities and work-based learning, explore various educational options, and develop or revise a plan related to their academic and career-related goals.",
+         "superCategory":"Classes",
+         "category":"special education",
+         "times":[
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00",
+            "-1:00/00:00"
+         ]
+      }
+   ]
+}

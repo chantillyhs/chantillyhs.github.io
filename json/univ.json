@@ -1,0 +1,1444 @@
+{
+   "actInfo":[
+      {
+         "name":"Baseball",
+         "description":"Baseball",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "15:30/18:00",
+            "16:30/21:00",
+            "15:30/18:00",
+            "15:30/18:00",
+            "16:30/21:00",
+            "09:00/11:30",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Basketball (Boys)",
+         "description":"Basketball (Boys)",
+         "superCategory":"Sports",
+         "category":"winter",
+         "times":[
+            "15:30/17:30",
+            "15:15/18:15",
+            "15:30/17:30",
+            "15:30/17:30",
+            "15:15/18:15",
+            "08:00/10:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Basketball (Girls)",
+         "description":"Basketball (Girls)",
+         "superCategory":"Sports",
+         "category":"winter",
+         "times":[
+            "17:30/19:30",
+            "15:30/17:30",
+            "17:30/19:30",
+            "17:30/19:30",
+            "15:30/17:30",
+            "08:00/10:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Cheerleading",
+         "description":"Cheerleading",
+         "superCategory":"Sports",
+         "category":"fall",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Cross Country",
+         "description":"Cross Country",
+         "superCategory":"Sports",
+         "category":"fall",
+         "times":[
+            "15:20/17:00",
+            "15:20/17:00",
+            "15:30/19:00",
+            "15:20/17:00",
+            "15:20/17:00",
+            "08:00/14:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Crew",
+         "description":"Crew",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Field Hockey",
+         "description":"Field Hockey",
+         "superCategory":"Sports",
+         "category":"fall",
+         "times":[
+            "19:00/21:00",
+            "19:00/21:00",
+            "18:00/21:30",
+            "15:30/17:30",
+            "18:00/21:30",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Varsity Football",
+         "description":"Varsity Football",
+         "superCategory":"Sports",
+         "category":"fall",
+         "times":[
+            "16:00/18:30",
+            "16:00/18:30",
+            "16:00/18:30",
+            "16:00/17:30",
+            "15:00/22:00",
+            "09:00/11:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"JV Football",
+         "description":"JV Football",
+         "superCategory":"Sports",
+         "category":"fall",
+         "times":[
+            "16:00/18:30",
+            "16:00/18:30",
+            "16:00/18:30",
+            "17:30/19:30",
+            "15:00/17:00",
+            "09:00/11:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Swim/Dive",
+         "description":"Swim/Dive",
+         "superCategory":"Sports",
+         "category":"winter",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Golf (Boys)",
+         "description":"Golf (Boys)",
+         "superCategory":"Sports",
+         "category":"fall",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Golf (Girls)",
+         "description":"Golf (Girls)",
+         "superCategory":"Sports",
+         "category":"fall",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Gymnastics",
+         "description":"Gymnastics",
+         "superCategory":"Sports",
+         "category":"winter",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Indoor Track",
+         "description":"Indoor Track",
+         "superCategory":"Sports",
+         "category":"winter",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Lacrosse (Boys)",
+         "description":"Lacrosse (Boys)",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "16:00/18:00",
+            "19:00/21:00",
+            "16:00/18:00",
+            "19:00/21:00",
+            "16:00/18:00",
+            "08:00/10:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Lacrosse (Girls)",
+         "description":"Lacrosse (Girls)",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Outdoor Track",
+         "description":"Outdoor Track",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "15:15/17:30",
+            "15:15/17:30",
+            "15:15/17:30",
+            "15:15/17:30",
+            "15:15/17:30",
+            "09:00/17:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Precisionettes",
+         "description":"Precisionettes",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "15:30/18:00",
+            "16:30/19:30",
+            "-1:00/0:00",
+            "15:30/18:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Rifle",
+         "description":"Rifle",
+         "superCategory":"Sports",
+         "category":"winter",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "17:00/21:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Soccer (Boys)",
+         "description":"Soccer (Boys)",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Soccer (Girls)",
+         "description":"Soccer (Girls)",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Softball",
+         "description":"Softball",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "15:30/18:00",
+            "16:30/21:00",
+            "15:30/18:00",
+            "15:30/18:00",
+            "16:30/21:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Swim/Dive",
+         "description":"Swim/Dive",
+         "superCategory":"Sports",
+         "category":"winter",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Tennis (Boys)",
+         "description":"Tennis (Boys)",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "16:00/17:15",
+            "15:30/18:45",
+            "16:00/17:15",
+            "15:30/18:45",
+            "16:00/17:15",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Tennis (Girls)",
+         "description":"Tennis (Girls)",
+         "superCategory":"Sports",
+         "category":"spring",
+         "times":[
+            "15:30/17:00",
+            "15:30/18:45",
+            "15:30/17:00",
+            "15:30/18:45",
+            "15:30/17:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Volleyball",
+         "description":"Volleyball",
+         "superCategory":"Sports",
+         "category":"fall",
+         "times":[
+            "15:30/21:00",
+            "15:30/21:00",
+            "15:30/21:00",
+            "15:30/21:00",
+            "15:30/21:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Varsity Wrestling",
+         "description":"Varsity Wrestling",
+         "superCategory":"Sports",
+         "category":"winter",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"JV Wrestling",
+         "description":"JV Wrestling",
+         "superCategory":"Sports",
+         "category":"winter",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Anime Club",
+         "description":"Anime Club",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:00/16:30",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Astronomy Club",
+         "description":"Astronomy Club",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Athletic Training Club",
+         "description":"Athletic Training Club",
+         "superCategory":"Clubs",
+         "category":"sports",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Band",
+         "description":"Band",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Catholic Club",
+         "description":"Catholic Club",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "19:30/20:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Cavalcade (Newspaper)",
+         "description":"Cavalcade (Newspaper)",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Cavalier (Yearbook)",
+         "description":"Cavalier (Yearbook)",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Chess Club",
+         "description":"Chess Club",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "15:00/16:30",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Chorus",
+         "description":"Chorus",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Class of 2016",
+         "description":"Class of 2016",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Class of 2017",
+         "description":"Class of 2017",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Class of 2018",
+         "description":"Class of 2018",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Class of 2019",
+         "description":"Class of 2019",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Color Guard",
+         "description":"Color Guard",
+         "superCategory":"Clubs",
+         "category":"sport",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Computer Science",
+         "description":"Computer Science",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "16:00/17:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Deaf Academic Bowl",
+         "description":"Deaf Academic Bowl",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:10/17:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"DECA",
+         "description":"DECA",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"DECA Officers",
+         "description":"DECA Officers",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Doctor Who Fan Club",
+         "description":"Doctor Who Fan Club",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:15/16:30",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Engineering Club/ACE Mentoring",
+         "description":"Engineering Club/ACE Mentoring",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "16:30/18:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Environment Club",
+         "description":"Environment Club",
+         "superCategory":"Clubs",
+         "category":"volunteer",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Family, Career and Community Leaders of America (FCCLA)",
+         "description":"Family, Career and Community Leaders of America (FCCLA)",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Fellowship of Christian Athletes",
+         "description":"Fellowship of Christian Athletes",
+         "superCategory":"Clubs",
+         "category":"sports",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"French Club",
+         "description":"French Club",
+         "superCategory":"Clubs",
+         "category":"languages",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:15/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"French Honor Society",
+         "description":"French Honor Society",
+         "superCategory":"Clubs",
+         "category":"languages",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Gay-Straight Alliance (GSA)",
+         "description":"Gay-Straight Alliance (GSA)",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:00/16:30",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"German Club",
+         "description":"German Club",
+         "superCategory":"Clubs",
+         "category":"languages",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:10/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"German Honor Society",
+         "description":"German Honor Society",
+         "superCategory":"Clubs",
+         "category":"languages",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:10/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Go Club",
+         "description":"Go Club",
+         "superCategory":"Clubs",
+         "category":"sports",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:10/16:30",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Habitat for Humanity",
+         "description":"Habitat for Humanity",
+         "superCategory":"Clubs",
+         "category":"volunteer",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Hip Hop Club",
+         "description":"Hip Hop Club",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "-1:00/0:00",
+            "15:00/16:30",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Improv Club",
+         "description":"Improv Club",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "-1:00/0:00",
+            "15:10/16:15",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"International Thespian Society",
+         "description":"International Thespian Society",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"IT Girls",
+         "description":"IT Girls",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "15:00/18:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Key Club",
+         "description":"Key Club",
+         "superCategory":"Clubs",
+         "category":"volunteer",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"KFC (Kosher Food Club)",
+         "description":"KFC (Kosher Food Club)",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Latin Club",
+         "description":"Latin Club",
+         "superCategory":"Clubs",
+         "category":"languages",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:00/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Latin Honor Society",
+         "description":"Latin Honor Society",
+         "superCategory":"Clubs",
+         "category":"languages",
+         "times":[
+            "15:00/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Leadership",
+         "description":"Leadership",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Math Honor Society  (Mu Alpha Theta)",
+         "description":"Math Honor Society  (Mu Alpha Theta)",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Math Team (JV)",
+         "description":"Math Team (JV)",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:10/15:40",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Math Team (Varsity)",
+         "description":"Math Team (Varsity)",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:00/15:45",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Model United Nations",
+         "description":"Model United Nations",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:30/16:30",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"National Art Honor Society",
+         "description":"National Art Honor Society",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "15:30/17:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"National English Honor Society",
+         "description":"National English Honor Society",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "15:00/15:45",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"National Honor Society",
+         "description":"National Honor Society",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:00/15:45",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Operation Patriot",
+         "description":"Operation Patriot",
+         "superCategory":"Clubs",
+         "category":"volunteer",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:05/15:30",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Orchestra",
+         "description":"Orchestra",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Page (Literary/Art Magazine)",
+         "description":"Page (Literary/Art Magazine)",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Photography Club ",
+         "description":"Photography Club ",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:00/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Poetry Club ",
+         "description":"Poetry Club ",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "15:00/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Relay for Life",
+         "description":"Relay for Life",
+         "superCategory":"Clubs",
+         "category":"volunteer",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:00/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Robotics Club",
+         "description":"Robotics Club",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:00/18:00"
+         ]
+      },
+      {
+         "name":"Scholastic Quiz Bowl /It's Academic",
+         "description":"Scholastic Quiz Bowl /It's Academic",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Science Olympiad",
+         "description":"Science Olympiad",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Science National Honor Society",
+         "description":"Science National Honor Society",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:00/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Speech, Debate, & Forensics ",
+         "description":"Speech, Debate, & Forensics ",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:10/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Spanish Club",
+         "description":"Spanish Club",
+         "superCategory":"Clubs",
+         "category":"languages",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:00/16:30",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Spanish National Honor Society",
+         "description":"Spanish National Honor Society",
+         "superCategory":"Clubs",
+         "category":"languages",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:10/16:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Student Advisory Council (SAC)",
+         "description":"Student Advisory Council (SAC)",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Student Government Association (SGA)",
+         "description":"Student Government Association (SGA)",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Students Against Destructive Decisions (SADD)",
+         "description":"Students Against Destructive Decisions (SADD)",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Student 2 Student (Ambassadors) ",
+         "description":"Student 2 Student (Ambassadors) ",
+         "superCategory":"Clubs",
+         "category":"volunteer",
+         "times":[
+            "15:30/16:30",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Technology Student Association (TSA)",
+         "description":"Technology Student Association (TSA)",
+         "superCategory":"Clubs",
+         "category":"academic",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "15:10/16:10",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Tri M Music Honor Society",
+         "description":"Tri M Music Honor Society",
+         "superCategory":"Clubs",
+         "category":"art",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Woodson Buddies",
+         "description":"Woodson Buddies",
+         "superCategory":"Clubs",
+         "category":"volunteer",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Young Hearts",
+         "description":"Young Hearts",
+         "superCategory":"Clubs",
+         "category":"volunteer",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      },
+      {
+         "name":"Young Republicans",
+         "description":"Young Republicans",
+         "superCategory":"Clubs",
+         "category":"other",
+         "times":[
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00",
+            "-1:00/0:00"
+         ]
+      }
+   ]
+}

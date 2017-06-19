@@ -1,0 +1,215 @@
+<html ng-app="poolePrj">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width = device-width, initial-scale=1">
+<title>Activity Selection</title>
+
+<!--
+Help Page
+-->
+
+<head>
+    <!-- links to external resources -->
+    <!-- foundation -->
+    <link rel="stylesheet" href="stylesheets/app.css">
+    <link rel="stylesheet" href="stylesheets/navbar.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+        crossorigin="anonymous">
+    <style>
+        .remove-button {
+            background-color: orange !important;
+        }
+
+        .class-cat {
+            margin-top: 1vh;
+        }
+
+        .card-row {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .day-bar {
+            border: solid black 2px;
+            border-radius: 15px;
+            height: 10vh;
+            width: 90vw;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+
+        .activity-bar {
+            height: 98%;
+            border-radius: 15px;
+            display: inline-block;
+            /*margin: 0px -5px 0px 0px;*/
+        }
+
+        .legend {
+            display: flex;
+            justify-content: space-around;
+            margin-left: 5vw;
+            margin-right: 5vw;
+            flex-wrap: wrap;
+            text-align: center;
+        }
+
+        .swatch {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .bottom-arrow {
+            font-size: 4em;
+        }
+
+        .schedule-error {
+            display: flex;
+            color: red;
+            font-size: 2em;
+            text-align: center;
+        }
+
+        .display-link {
+            font-size: 1em;
+            text-align: center;
+            margin: 1vh 0px;
+        }
+
+        .time-bar {
+            /*margin-left: 5vw; */
+            margin-right: 5vw;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .row-top {
+            margin-top: 10vh;
+        }
+        /* this stops subcategories from sliding off the left side of the screen on mobile */
+
+        @media only screen and (max-width: 40em) {
+            .row {
+                margin-left: 2px !important;
+            }
+            .fixed-bottom {
+                opacity: 1 !important;
+            }
+        }
+
+        .fixed-bottom {
+            background-color: #333333;
+            opacity: 0.8;
+            padding: 3.5vh 3.5vh 3.5vh 3.5vh;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            color: black;
+        }
+        body {
+            margin-bottom: 10vh;
+        }
+    </style>
+</head>
+
+<body>
+    <navbar></navbar>
+    <div ng-controller="mainCtrl as ctrl">
+        <!-- display the appropriate "page name" -->
+        <div class="row row-top">
+            <h1 style="text-align: center">{{ctrl.displayList[ctrl.displayNum]}}</h1>
+        </div>
+        <!-- show only if looking at classes " -->
+        <div ng-show="ctrl.displayNum == 0">
+            <div class="row">
+                <!-- a centered dropdown button to select grades -->
+                <div class="small-12 medium-4 small-centered columns end" style="text-align: center">
+                    <button id="dropbtn" href="#" data-dropdown="drop" aria-controls="drop" aria-expanded="false" class="button dropdown">Select a Grade</button><br>
+                    <ul id="drop" data-dropdown-content class="mega f-dropdown" aria-hidden="true">
+                        <li><a class="gradeopt" ng-click="ctrl.setGrade('9');" href="#">9th (Freshman)</a></li>
+                        <li><a class="gradeopt" ng-click="ctrl.setGrade('10');" href="#">10th (Sophomore)</a></li>
+                        <li><a class="gradeopt" ng-click="ctrl.setGrade('11');" href="#">11th (Junior)</a></li>
+                        <li><a class="gradeopt" ng-click="ctrl.setGrade('12');" href="#">12th (Senior)</a></li>
+                        <li><a class="gradeopt" ng-click="ctrl.setGrade('ALL');" href="#">Show All</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- superCatName is Classes, Clubs, Sports, etc
+            catList is a list of subcategories that fall under each super-category -->
+            <div ng-repeat="(superCatName,catList) in ctrl.categories" class="row">
+                <div class="accordion">
+                    <h1 style="text-align: center">Select {{superCatName}}</h1>
+                    <div class="row class-cat" ng-repeat-start="cat in catList">
+                        <h3>{{cat}}</h3>
+                    </div>
+                    <!-- each subcategory's activities start out hidden until expanded -->
+                    <div class="row card-row" ng-repeat-end style="display: none">
+                        <!-- show all activities such that the category matches the current category -->
+                        <div class="medium-4 columns" ng-repeat="activity in ctrl.activities | filter: { category : cat }">
+                            <ul class="pricing-table active-tb shadow mrgn-20-top">
+                                <li class="title">{{activity.name}}</li>
+                                <li class="display-link"><a onclick="toggleDesc(this)">Show Description</a></li>
+                                <li class="bullet-item" style="display: none">{{activity.description}}</li>
+                                <li class="price">{{weeklyTime(activity)}} hr/wk</li>
+                                <li class="cta-button"><a class="button text-transform" href="#" ng-click="toggleSelect(activity, $event)">Add to Schedule</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div ng-show="ctrl.displayNum == 1">
+            <!-- legend/key -->
+            <div class="fixed-bottom">
+                <div class="legend">
+                    <div ng-repeat="activity in ctrl.selectedActivities">
+                        <!-- show each activity name with a background corresponding to that activity's color -->
+                        <div class="swatch" ng-style="{background: ctrl.colors[activity.name]}">{{activity.name}}</div>
+                    </div>
+                </div>
+            </div>
+            <div style="margin: 5vh 0px 5vh 5vw" ng-repeat="day in ctrl.schedule">
+                <!-- this just shows the current day  - $index is the current index, and ctrl.dayList is a list of days in the appropriate order -->
+                <h2>{{ctrl.dayList[$index]}}</h2>
+                <h4 ng-show="day.freeTime">{{day.freeTime}} of free time</h4>
+                <div ng-show="day.displayBarInfo">
+                    <!-- this is the bar of colored divs that represents a full day -->
+                    <div class="day-bar">
+                        <div class="activity-bar" ng-repeat="act in day.displayBarInfo" ng-style="{background: ctrl.colors[act.name], width: act.width}"></div>
+                    </div>
+                    <!-- this is the bar underneath that shows the appropriate times -->
+                    <div class="time-bar">
+                        <span ng-repeat="increment in range(0, ctrl.numTimes)">{{dayPortion(increment, day.start, day.end)}}</span>
+                    </div>
+                    <!-- this shows the amount of time consumed by each superCategory -->
+                    <p style="font-size: 120%" ng-repeat="(cat,time) in day.timeConsumed">{{cat}}: {{time}}</p>
+                </div>
+                <!-- if there's an error, display it instead of a bar and info -->
+                <div class="schedule-error" ng-show="day.err">{{day.err}}</div>
+            </div>
+        </div>
+        <div>
+            <div class="small-4 columns" style="text-align: right">
+                <i class="fa fa-chevron-left bottom-arrow" ng-click="changeDisplay(-1)"></i>
+                <span style="display: block; text-align: right">Prev</span>
+            </div>
+            <!-- a block of empty space for aesthetic purposes -->
+            <div class="small-2 columns"></div>
+            <div class="small-4 columns">
+                <i class="fa fa-chevron-right bottom-arrow" ng-click="changeDisplay(1)"></i>
+                <span style="display: block">Next</span>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="js/app-sim.js"></script>
+    <script type="text/javascript">
+        //initialize foundation JS
+        $(document).foundation();
+    </script>
+</body>
+
+</html>
