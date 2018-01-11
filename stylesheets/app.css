@@ -2427,8 +2427,8 @@ button, .button {
   display: inline-block;
   padding: 1rem 2rem 1.0625rem 2rem;
   font-size: 1rem;
-  background-color: #008CBA;
-  border-color: #007095;
+  background-color: #3f3c93;
+  border-color: #382f5a;
   color: #FFFFFF;
   transition: background-color 300ms ease-out;
 }
@@ -2555,8 +2555,8 @@ button.round, .button.round {
 }
 /* line 242, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
 button.disabled, button[disabled], .button.disabled, .button[disabled] {
-  background-color: #008CBA;
-  border-color: #007095;
+  background-color: #3f3c93;
+  border-color: #382f5a;
   color: #FFFFFF;
   box-shadow: none;
   cursor: default;
@@ -2564,7 +2564,7 @@ button.disabled, button[disabled], .button.disabled, .button[disabled] {
 }
 /* line 163, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #007095;
+  background-color: #382f5a;
 }
 /* line 169, ../bower_components/foundation/scss/foundation/components/_buttons.scss */
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
