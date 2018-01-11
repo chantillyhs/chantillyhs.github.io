@@ -1,16 +1,16 @@
 {
     "Classes": [
--        "cte",
- -        "english",
- -        "esol",
- -        "fine arts",
- -        "general",
- -        "health and p/e",
- -        "languages",
- -        "mathematics",
- -        "science",
- -        "social studies",
- -        "special education"
+        "cte",
+        "english",
+        "esol",
+        "fine arts",
+        "general",
+        "health and p/e",
+        "languages",
+        "mathematics",
+        "science",
+        "social studies",
+        "special education"
     ],
     "Sports" : [
         "fall",
