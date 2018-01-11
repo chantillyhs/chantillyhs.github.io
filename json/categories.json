@@ -1,30 +1,30 @@
 {
     "Classes": [
-        "CTE",
-        "English",
-	"ESOL",
-	"Fine Arts",
-        "General",
-        "Health and PE",
-        "Mathematics",
-        "Science",
-        "Social Studies",
-        "Special Education",
-	"World Languages",
+-        "cte",
+ -        "english",
+ -        "esol",
+ -        "fine arts",
+ -        "general",
+ -        "health and p/e",
+ -        "languages",
+ -        "mathematics",
+ -        "science",
+ -        "social studies",
+ -        "special education"
     ],
     "Sports" : [
-        "Fall",
-        "Winter",
-        "Spring",
-        "Clubs"
+        "fall",
+        "winter",
+        "spring",
+        "clubs"
     ],
     "Clubs" : [
-		"Art",
-		"Academic",
-		"Sports",
-		"Other",
-		"Sport",
-		"Volunteer",
-		"Languages"
+		"art",
+		"academic",
+		"sports",
+		"other",
+		"sport",
+		"volunteer",
+		"languages"
     ]
 }
