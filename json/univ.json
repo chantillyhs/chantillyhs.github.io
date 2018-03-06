@@ -376,8 +376,53 @@
       ]
     },
     {
-      "name": "Anime Club",
-      "description": "Anime Club",
+      "name": "A Cappella Choir",
+      "description": "A Cappella Choir",
+      "superCategory": "Clubs",
+      "category": "art",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:30"
+      ]
+    },
+    {
+      "name": "Aerospace",
+      "description": "Aerospace",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/2:00"
+      ]
+    },
+    {
+      "name": "Animal Welfare",
+      "description": "Animal Welfare",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Anime / Origami Club",
+      "description": "Anime / Origami Club",
       "superCategory": "Clubs",
       "category": "art",
       "times": [
@@ -391,23 +436,8 @@
       ]
     },
     {
-      "name": "Astronomy Club",
-      "description": "Astronomy Club",
-      "superCategory": "Clubs",
-      "category": "academic",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Athletic Training Club",
-      "description": "Athletic Training Club",
+      "name": "Athletic Training",
+      "description": "Athletic Training",
       "superCategory": "Clubs",
       "category": "sports",
       "times": [
@@ -421,8 +451,8 @@
       ]
     },
     {
-      "name": "Band",
-      "description": "Band",
+      "name": "Band - Color Guard",
+      "description": "Band - Color Guard",
       "superCategory": "Clubs",
       "category": "art",
       "times": [
@@ -436,18 +466,78 @@
       ]
     },
     {
-      "name": "Catholic Club",
-      "description": "Catholic Club",
+      "name": "Band - Drum Line",
+      "description": "Band - Drum Line",
       "superCategory": "Clubs",
       "category": "other",
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "19:30/20:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/8:00"
+      ]
+    },
+    {
+      "name": "BBC British Media",
+      "description": "BBC British Media",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Best Buddies",
+      "description": "Best Buddies",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Broadcast Journalism (Knightly News)",
+      "description": "Broadcast Journalism (Knightly News)",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/5:00"
+      ]
+    },
+    {
+      "name": "Cards For Care",
+      "description": "Cards For Care",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
       ]
     },
     {
@@ -466,40 +556,10 @@
       ]
     },
     {
-      "name": "Chorus",
-      "description": "Chorus",
+      "name": "Choir",
+      "description": "Choir",
       "superCategory": "Clubs",
       "category": "art",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Class of 2016",
-      "description": "Class of 2016",
-      "superCategory": "Clubs",
-      "category": "other",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Class of 2017",
-      "description": "Class of 2017",
-      "superCategory": "Clubs",
-      "category": "other",
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
@@ -522,7 +582,7 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/2:30"
       ]
     },
     {
@@ -537,14 +597,14 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/2:30"
       ]
     },
     {
-      "name": "Color Guard",
-      "description": "Color Guard",
+      "name": "Class of 2020",
+      "description": "Class of 2020",
       "superCategory": "Clubs",
-      "category": "sport",
+      "category": "other",
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
@@ -552,7 +612,37 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/2:30"
+      ]
+    },
+    {
+      "name": "Class of 2021",
+      "description": "Class of 2021",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/2:30"
+      ]
+    },
+    {
+      "name": "College Partnership",
+      "description": "College Partnership",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:15"
       ]
     },
     {
@@ -564,10 +654,85 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "16:00/17:00",
+        "16:00/17:30",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00"
+      ]
+    },
+    {
+      "name": "Computer Science Honor Society",
+      "description": "Computer Science Honor Society",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:30"
+      ]
+    },
+    {
+      "name": "Creative Writing",
+      "description": "Creative Writing",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:30"
+      ]
+    },
+    {
+      "name": "Cyber Patriot",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Dance Team",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Debate Team",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/2:00"
       ]
     },
     {
@@ -582,7 +747,7 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/1:00"
       ]
     },
     {
@@ -597,42 +762,12 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/1:00"
       ]
     },
     {
-      "name": "Engineering Club/ACE Mentoring",
-      "description": "Engineering Club/ACE Mentoring",
-      "superCategory": "Clubs",
-      "category": "academic",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "16:30/18:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Environment Club",
-      "description": "Environment Club",
-      "superCategory": "Clubs",
-      "category": "volunteer",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Family, Career and Community Leaders of America (FCCLA)",
-      "description": "Family, Career and Community Leaders of America (FCCLA)",
+      "name": "DECA, An Association of Marketing Students",
+      "description": "",
       "superCategory": "Clubs",
       "category": "other",
       "times": [
@@ -642,7 +777,97 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:30"
+      ]
+    },
+    {
+      "name": "Dungeons and Dragons",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "English Honor Society",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "ESOL Involvement",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:15"
+      ]
+    },
+    {
+      "name": "ESOL Peer Tutoring",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "FBLA Competitors",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "FBLA Officers",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:30"
       ]
     },
     {
@@ -657,7 +882,37 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Film Club",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/2:00"
+      ]
+    },
+    {
+      "name": "Forensics",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
       ]
     },
     {
@@ -668,16 +923,16 @@
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
-        "15:15/16:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/0:15"
       ]
     },
     {
-      "name": "French Honor Society",
-      "description": "French Honor Society",
+      "name": "French National Honor Society",
+      "description": "French National Honor Society",
       "superCategory": "Clubs",
       "category": "languages",
       "times": [
@@ -687,7 +942,37 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:15"
+      ]
+    },
+    {
+      "name": "Future Business Leaders",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Future Health Leaders",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
       ]
     },
     {
@@ -698,11 +983,26 @@
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
-        "15:00/16:30",
+        "15:00/16:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00"
+      ]
+    },
+    {
+      "name": "GE2 Exploring Engineering",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
       ]
     },
     {
@@ -713,11 +1013,11 @@
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
-        "15:10/16:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/0:15"
       ]
     },
     {
@@ -728,18 +1028,18 @@
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
-        "15:10/16:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/0:15"
       ]
     },
     {
-      "name": "Habitat for Humanity",
-      "description": "Habitat for Humanity",
+      "name": "Girl Up",
+      "description": "",
       "superCategory": "Clubs",
-      "category": "volunteer",
+      "category": "other",
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
@@ -747,37 +1047,127 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/1:00"
       ]
     },
     {
-      "name": "Hip Hop Club",
-      "description": "Hip Hop Club",
+      "name": "Girls Who Code",
+      "description": "",
       "superCategory": "Clubs",
-      "category": "art",
+      "category": "other",
       "times": [
         "-1:00/0:00",
-        "15:00/16:30",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/0:30"
       ]
     },
     {
-      "name": "Improv Club",
-      "description": "Improv Club",
+      "name": "H.O.S.A Health Occupation Student America",
+      "description": "",
       "superCategory": "Clubs",
-      "category": "art",
+      "category": "other",
       "times": [
         "-1:00/0:00",
-        "15:10/16:15",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Hip Hop",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Hispanic Heritage (Leadership)",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:15"
+      ]
+    },
+    {
+      "name": "Ice Hockey Interest Club",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/5:00"
+      ]
+    },
+    {
+      "name": "Indian Student Association",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Interact Club",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:15"
+      ]
+    },
+    {
+      "name": "International Awareness",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
       ]
     },
     {
@@ -796,6 +1186,35 @@
       ]
     },
     {
+      "name": "Investment
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:30"
+      ]
+    },
+    {
+      "name": "It's Academic Team",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:30"
+      ]
+    },
+    {
       "name": "Key Club",
       "description": "Key Club",
       "superCategory": "Clubs",
@@ -807,22 +1226,7 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "KFC (Kosher Food Club)",
-      "description": "KFC (Kosher Food Club)",
-      "superCategory": "Clubs",
-      "category": "other",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/1:00"
       ]
     },
     {
@@ -834,32 +1238,17 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "15:00/16:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/0:15"
       ]
     },
     {
-      "name": "Latin Honor Society",
-      "description": "Latin Honor Society",
+      "name": "Literacy Arts Magazine - Andromeda",
+      "description": "",
       "superCategory": "Clubs",
-      "category": "languages",
-      "times": [
-        "15:00/16:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Leadership",
-      "description": "Leadership",
-      "superCategory": "Clubs",
-      "category": "academic",
+      "category": "other",
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
@@ -867,11 +1256,41 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/1:00"
       ]
     },
     {
-      "name": "Math Honor Society  (Mu Alpha Theta)",
+      "name": "Marching Band",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/8:00"
+      ]
+    },
+    {
+      "name": "Math Club",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Math Honor Society",
       "description": "Math Honor Society  (Mu Alpha Theta)",
       "superCategory": "Clubs",
       "category": "academic",
@@ -882,52 +1301,52 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:30"
       ]
     },
     {
-      "name": "Math Team (JV)",
-      "description": "Math Team (JV)",
+      "name": "Meditation Club",
+      "description": "",
       "superCategory": "Clubs",
-      "category": "academic",
+      "category": "other",
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
-        "15:10/15:40",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/1:00"
       ]
     },
     {
-      "name": "Math Team (Varsity)",
-      "description": "Math Team (Varsity)",
+      "name": "Model UN",
+      "description": "",
       "superCategory": "Clubs",
-      "category": "academic",
+      "category": "other",
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
-        "15:00/15:45",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/0:30"
       ]
     },
     {
-      "name": "Model United Nations",
-      "description": "Model United Nations",
+      "name": "Muslim Student Assoc",
+      "description": "",
       "superCategory": "Clubs",
-      "category": "academic",
+      "category": "other",
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
-        "15:30/16:30",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/1:00"
       ]
     },
     {
@@ -936,28 +1355,13 @@
       "superCategory": "Clubs",
       "category": "art",
       "times": [
-        "15:30/17:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "National English Honor Society",
-      "description": "National English Honor Society",
-      "superCategory": "Clubs",
-      "category": "academic",
-      "times": [
         "-1:00/0:00",
-        "15:00/15:45",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/1:00"
       ]
     },
     {
@@ -969,156 +1373,6 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "15:00/15:45",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Operation Patriot",
-      "description": "Operation Patriot",
-      "superCategory": "Clubs",
-      "category": "volunteer",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "15:05/15:30",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Orchestra",
-      "description": "Orchestra",
-      "superCategory": "Clubs",
-      "category": "art",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Page (Literary/Art Magazine)",
-      "description": "Page (Literary/Art Magazine)",
-      "superCategory": "Clubs",
-      "category": "art",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Photography Club ",
-      "description": "Photography Club ",
-      "superCategory": "Clubs",
-      "category": "art",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "15:00/16:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Poetry Club ",
-      "description": "Poetry Club ",
-      "superCategory": "Clubs",
-      "category": "art",
-      "times": [
-        "15:00/16:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Relay for Life",
-      "description": "Relay for Life",
-      "superCategory": "Clubs",
-      "category": "volunteer",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "15:00/16:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Robotics Club",
-      "description": "Robotics Club",
-      "superCategory": "Clubs",
-      "category": "academic",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "15:00/18:00"
-      ]
-    },
-    {
-      "name": "Scholastic Quiz Bowl /It's Academic",
-      "description": "Scholastic Quiz Bowl /It's Academic",
-      "superCategory": "Clubs",
-      "category": "academic",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Science Olympiad",
-      "description": "Science Olympiad",
-      "superCategory": "Clubs",
-      "category": "academic",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Science National Honor Society",
-      "description": "Science National Honor Society",
-      "superCategory": "Clubs",
-      "category": "academic",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
         "15:00/16:00",
         "-1:00/0:00",
         "-1:00/0:00",
@@ -1126,83 +1380,8 @@
       ]
     },
     {
-      "name": "Speech, Debate, & Forensics ",
-      "description": "Speech, Debate, & Forensics ",
-      "superCategory": "Clubs",
-      "category": "academic",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "15:10/16:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Spanish Club",
-      "description": "Spanish Club",
-      "superCategory": "Clubs",
-      "category": "languages",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "15:00/16:30",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Spanish National Honor Society",
-      "description": "Spanish National Honor Society",
-      "superCategory": "Clubs",
-      "category": "languages",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "15:10/16:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Student Advisory Council (SAC)",
-      "description": "Student Advisory Council (SAC)",
-      "superCategory": "Clubs",
-      "category": "academic",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Student Government Association (SGA)",
-      "description": "Student Government Association (SGA)",
-      "superCategory": "Clubs",
-      "category": "academic",
-      "times": [
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00",
-        "-1:00/0:00"
-      ]
-    },
-    {
-      "name": "Students Against Destructive Decisions (SADD)",
-      "description": "Students Against Destructive Decisions (SADD)",
+      "name": "National Science Bowl",
+      "description": "",
       "superCategory": "Clubs",
       "category": "other",
       "times": [
@@ -1212,44 +1391,284 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/1:00"
       ]
     },
     {
-      "name": "Student 2 Student (Ambassadors) ",
-      "description": "Student 2 Student (Ambassadors) ",
+      "name": "Newspaper - Purple Tide",
+      "description": "",
       "superCategory": "Clubs",
-      "category": "volunteer",
+      "category": "other",
       "times": [
-        "15:30/16:30",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/5:00"
+      ]
+    },
+    {
+      "name": "Opinion Exchange",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Orchestra & Strings Ensemble",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/2:30"
+      ]
+    },
+    {
+      "name": "Photo Club",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Quill & Scroll Journalism Honor Society",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Readers Club",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:15"
+      ]
+    },
+    {
+      "name": "Robotics Club - FRC 612",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/10:00"
+      ]
+    },
+    {
+      "name": "Robotics Club - FTC Knightrix",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/2:00"
+      ]
+    },
+    {
+      "name": "Robotics Club - TSA - Vex Robotics",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:30"
+      ]
+    },
+    {
+      "name": "Science National Honor Society",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:15"
+      ]
+    },
+    {
+      "name": "Science Olympiad",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Skills USA - Auto Collision",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Skills USA - Culinary",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Spanish Honor Society",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:15"
+      ]
+    },
+    {
+      "name": "Speech",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:30"
+      ]
+    },
+    {
+      "name": "Student Government (SGA)",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/4:30"
+      ]
+    },
+    {
+      "name": "Students for Environmental Awareness / Action Team",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
       ]
     },
     {
       "name": "Technology Student Association (TSA)",
-      "description": "Technology Student Association (TSA)",
+      "description": "",
       "superCategory": "Clubs",
-      "category": "academic",
+      "category": "other",
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
-        "15:10/16:10",
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:00",
+        "-1:00/1:30"
       ]
     },
     {
-      "name": "Tri M Music Honor Society",
-      "description": "Tri M Music Honor Society",
+      "name": "Tri-M Music Honor Society",
+      "description": "",
       "superCategory": "Clubs",
-      "category": "art",
+      "category": "other",
       "times": [
         "-1:00/0:00",
         "-1:00/0:00",
@@ -1257,7 +1676,82 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/0:15"
+      ]
+    },
+    {
+      "name": "WEB Dubois Society",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Wounded Warriors Project",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Writing Center",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
+      ]
+    },
+    {
+      "name": "Yearbook - Odyssey",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/5:00"
+      ]
+    },
+    {
+      "name": "Young Democrats",
+      "description": "",
+      "superCategory": "Clubs",
+      "category": "other",
+      "times": [
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/0:00",
+        "-1:00/1:00"
       ]
     },
     {
@@ -1272,7 +1766,7 @@
         "-1:00/0:00",
         "-1:00/0:00",
         "-1:00/0:00",
-        "-1:00/0:00"
+        "-1:00/1:00"
       ]
     }
   ]
