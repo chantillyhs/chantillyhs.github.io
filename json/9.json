@@ -53,7 +53,7 @@
 			"name":"LiteracyEssentials",
 			"description":"LiteracyEssentials",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -69,7 +69,7 @@
 			"name":"LiteracyEssentials",
 			"description":"LiteracyEssentials",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -325,7 +325,7 @@
 			"name":"Algebra 1",
 			"description":"Algebra 1",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -341,7 +341,7 @@
 			"name":"Algebra 1 HN",
 			"description":"Algebra 1 HN",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -357,7 +357,7 @@
 			"name":"Algebra 1 Part 1",
 			"description":"Algebra 1 Part 1",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -373,7 +373,7 @@
 			"name":"Algebra 2",
 			"description":"Algebra 2",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -389,7 +389,7 @@
 			"name":"Algebra 2 HN",
 			"description":"Algebra 2 HN",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -405,7 +405,7 @@
 			"name":"Geometry",
 			"description":"Geometry",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -421,7 +421,7 @@
 			"name":"Geometry HN",
 			"description":"Geometry HN",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -437,7 +437,7 @@
 			"name":"Geometry Part 1",
 			"description":"Geometry Part 1",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -453,7 +453,7 @@
 			"name":"Precalc w/Trig HN",
 			"description":"Precalc w/Trig HN",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -469,7 +469,7 @@
 			"name":"Computer Science",
 			"description":"Computer Science",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -485,7 +485,7 @@
 			"name":"AP Computer Sci A",
 			"description":"AP Computer Sci A",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -501,7 +501,7 @@
 			"name":"AP Computer Sci Pr",
 			"description":"AP Computer Sci Pr",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1093,7 +1093,7 @@
 			"name":"Health & PE 9",
 			"description":"Health & PE 9",
 			"superCategory":"Classes",
-			"category":"HPE",
+			"category":"Health and P/E",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1109,7 +1109,7 @@
 			"name":"Health & PE 9",
 			"description":"Health & PE 9",
 			"superCategory":"Classes",
-			"category":"HPE",
+			"category":"Health and P/E",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1125,7 +1125,7 @@
 			"name":"Adapted Phys Ed",
 			"description":"Adapted Phys Ed",
 			"superCategory":"Classes",
-			"category":"HPE",
+			"category":"Health and P/E",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1695,6 +1695,6 @@
 				"-1:00/00:00",
 				"-1:00/2:00"
 			]
-		}
+		},
 	]
 }
