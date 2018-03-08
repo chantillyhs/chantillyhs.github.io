@@ -5,7 +5,7 @@
 			"name":"Alg 2 Strategies",
 			"description":"Alg 2 Strategies",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -53,7 +53,7 @@
 			"name":"LiteracyEssentials",
 			"description":"LiteracyEssentials",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -69,7 +69,7 @@
 			"name":"LiteracyEssentials",
 			"description":"LiteracyEssentials",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -629,7 +629,7 @@
 			"name":"Algebra 2",
 			"description":"Algebra 2",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -645,7 +645,7 @@
 			"name":"Geometry",
 			"description":"Geometry",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -661,7 +661,7 @@
 			"name":"Discrete Math",
 			"description":"Discrete Math",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -677,7 +677,7 @@
 			"name":"Precalculus w/Trig",
 			"description":"Precalculus w/Trig",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -693,7 +693,7 @@
 			"name":"Precalc w/Trig HN",
 			"description":"Precalc w/Trig HN",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -709,7 +709,7 @@
 			"name":"Precalculus w/Trig",
 			"description":"Precalculus w/Trig",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -725,7 +725,7 @@
 			"name":"Engineer Math",
 			"description":"Engineer Math",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -741,7 +741,7 @@
 			"name":"AP Calculus AB",
 			"description":"AP Calculus AB",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -757,7 +757,7 @@
 			"name":"AP Calculus BC",
 			"description":"AP Calculus BC",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -773,7 +773,7 @@
 			"name":"Multivar Calculus",
 			"description":"Multivar Calculus",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -789,7 +789,7 @@
 			"name":"Computer Science",
 			"description":"Computer Science",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -805,7 +805,7 @@
 			"name":"AP Computer Sci A",
 			"description":"AP Computer Sci A",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -821,7 +821,7 @@
 			"name":"AP Computer Sci Pr",
 			"description":"AP Computer Sci Pr",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -837,7 +837,7 @@
 			"name":"Prob & Statistics",
 			"description":"Prob & Statistics",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -853,7 +853,7 @@
 			"name":"AP Statistics",
 			"description":"AP Statistics",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -869,7 +869,7 @@
 			"name":"AP Statistics",
 			"description":"AP Statistics",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -885,7 +885,7 @@
 			"name":"Matrix Algebra",
 			"description":"Matrix Algebra",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -901,7 +901,7 @@
 			"name":"Applied Calculus",
 			"description":"Applied Calculus",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1941,7 +1941,7 @@
 			"name":"Sports Medicine",
 			"description":"Sports Medicine",
 			"superCategory":"Classes",
-			"category":"HPE",
+			"category":"Health and P/E",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1957,7 +1957,7 @@
 			"name":"Personal Fitness 1",
 			"description":"Personal Fitness 1",
 			"superCategory":"Classes",
-			"category":"HPE",
+			"category":"Health and P/E",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1973,7 +1973,7 @@
 			"name":"Personal Fitness 2",
 			"description":"Personal Fitness 2",
 			"superCategory":"Classes",
-			"category":"HPE",
+			"category":"Health and P/E",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1989,7 +1989,7 @@
 			"name":"Fitness Instructor",
 			"description":"Fitness Instructor",
 			"superCategory":"Classes",
-			"category":"HPE",
+			"category":"Health and P/E",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -2005,7 +2005,7 @@
 			"name":"Personal Fitness 1",
 			"description":"Personal Fitness 1",
 			"superCategory":"Classes",
-			"category":"HPE",
+			"category":"Health and P/E",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -2021,7 +2021,7 @@
 			"name":"Personal Fitness 1",
 			"description":"Personal Fitness 1",
 			"superCategory":"Classes",
-			"category":"HPE",
+			"category":"Health and P/E",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -2037,7 +2037,7 @@
 			"name":"Adapted Phys Ed",
 			"description":"Adapted Phys Ed",
 			"superCategory":"Classes",
-			"category":"HPE",
+			"category":"Health and P/E",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
