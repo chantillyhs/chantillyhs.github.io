@@ -101,7 +101,7 @@
 			"name":"LiteracyEssentials",
 			"description":"LiteracyEssentials",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -117,7 +117,7 @@
 			"name":"LiteracyEssentials",
 			"description":"LiteracyEssentials",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -277,7 +277,7 @@
 			"name":"AP Computer Sci A",
 			"description":"AP Computer Sci A",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -293,7 +293,7 @@
 			"name":"AP Computer Sci Pr",
 			"description":"AP Computer Sci Pr",
 			"superCategory":"Classes",
-			"category":"Math",
+			"category":"Mathematics",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -869,7 +869,7 @@
 			"name":"Pers Development",
 			"description":"Pers Development",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -901,7 +901,7 @@
 			"name":"Strats for Success",
 			"description":"Strats for Success",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1013,7 +1013,7 @@
 			"name":"Educ for Employ 1",
 			"description":"Educ for Employ 1",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1029,7 +1029,7 @@
 			"name":"EFE for the Office",
 			"description":"EFE for the Office",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1045,7 +1045,7 @@
 			"name":"EFE for the Office",
 			"description":"EFE for the Office",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1061,7 +1061,7 @@
 			"name":"Educ for Emp lvl 1",
 			"description":"Educ for Emp lvl 1",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1077,7 +1077,7 @@
 			"name":"Educ for Emp lvl 1",
 			"description":"Educ for Emp lvl 1",
 			"superCategory":"Classes",
-			"category":"Special Ed",
+			"category":"Special Education",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
