@@ -1,2883 +1,1540 @@
 {
   "actInfo": [
-    {
+  		 {
 
 			"name":"Creative Writing 1",
-
 			"description":"Creative Writing 1",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Creative Writing 1",
-
 			"description":"Creative Writing 1",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Creative Writing 1",
-
 			"description":"Creative Writing 1",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Creative Writing 1",
-
 			"description":"Creative Writing 1",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Creative Writing 2",
-
 			"description":"Creative Writing 2",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Creative Writing 3",
-
 			"description":"Creative Writing 3",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"LiteracyEssentials",
-
 			"description":"LiteracyEssentials",
-
 			"superCategory":"Classes",
-
 			"category":"Special Ed",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"LiteracyEssentials",
-
 			"description":"LiteracyEssentials",
-
 			"superCategory":"Classes",
-
 			"category":"Special Ed",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Literacy LAB 1",
-
 			"description":"Literacy LAB 1",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Journalism 1",
-
 			"description":"Journalism 1",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Speech Commun",
-
 			"description":"Speech Commun",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Forensics",
-
 			"description":"Forensics",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Debate",
-
 			"description":"Debate",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Theatre Arts 1",
-
 			"description":"Theatre Arts 1",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Theatre Arts 1",
-
 			"description":"Theatre Arts 1",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Tech Theatre 1",
-
 			"description":"Tech Theatre 1",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Film Study",
-
 			"description":"Film Study",
-
 			"superCategory":"Classes",
-
 			"category":"English",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"AP Computer Sci A",
-
 			"description":"AP Computer Sci A",
-
 			"superCategory":"Classes",
-
 			"category":"Math",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/3:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"AP Computer Sci Pr",
-
 			"description":"AP Computer Sci Pr",
-
 			"superCategory":"Classes",
-
 			"category":"Math",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Biology Part 1",
-
 			"description":"Biology Part 1",
-
 			"superCategory":"Classes",
-
 			"category":"Science",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Biology 1",
-
 			"description":"Biology 1",
-
 			"superCategory":"Classes",
-
 			"category":"Science",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1.25:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Biology 1 HN",
-
 			"description":"Biology 1 HN",
-
 			"superCategory":"Classes",
-
 			"category":"Science",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"STEM Essentials",
-
 			"description":"STEM Essentials",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"French 1",
-
 			"description":"French 1",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"French 2",
-
 			"description":"French 2",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"German 1",
-
 			"description":"German 1",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"German 2",
-
 			"description":"German 2",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.75:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"German 3",
-
 			"description":"German 3",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1.25:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Latin 1",
-
 			"description":"Latin 1",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Latin 2",
-
 			"description":"Latin 2",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Latin 3",
-
 			"description":"Latin 3",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Latin 4",
-
 			"description":"Latin 4",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Spanish 3",
-
 			"description":"Spanish 3",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English Lang Dev",
-
 			"description":"English Lang Dev",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English 9",
-
 			"description":"English 9",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English 9",
-
 			"description":"English 9",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English 9",
-
 			"description":"English 9",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English 10",
-
 			"description":"English 10",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"English 10",
-
 			"description":"English 10",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Adv Info Sys",
-
 			"description":"Adv Info Sys",
-
 			"superCategory":"Classes",
-
 			"category":"CTE",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Des MultiM WebTech",
-
 			"description":"Des MultiM WebTech",
-
 			"superCategory":"Classes",
-
 			"category":"CTE",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Web Page Dev",
-
 			"description":"Web Page Dev",
-
 			"superCategory":"Classes",
-
 			"category":"CTE",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Programming",
-
 			"description":"Programming",
-
 			"superCategory":"Classes",
-
 			"category":"CTE",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Pers Development",
-
 			"description":"Pers Development",
-
 			"superCategory":"Classes",
-
 			"category":"Special Ed",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Strats for Success",
-
 			"description":"Strats for Success",
-
 			"superCategory":"Classes",
-
 			"category":"ESOL",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Strats for Success",
-
 			"description":"Strats for Success",
-
 			"superCategory":"Classes",
-
 			"category":"Special Ed",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Air Force JROTC 1",
-
 			"description":"Air Force JROTC 1",
-
 			"superCategory":"Classes",
-
 			"category":"Academy",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Air Force JROTC",
-
 			"description":"Air Force JROTC",
-
 			"superCategory":"Classes",
-
 			"category":"Academy",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Fash Marketing 1",
-
 			"description":"Fash Marketing 1",
-
 			"superCategory":"Classes",
-
 			"category":"CTE",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Design and Tech",
-
 			"description":"Design and Tech",
-
 			"superCategory":"Classes",
-
 			"category":"CTE",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.25:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"STEM Design",
-
 			"description":"STEM Design",
-
 			"superCategory":"Classes",
-
 			"category":"CTE",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.25:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Prof PhotoStudio 1",
-
 			"description":"Prof PhotoStudio 1",
-
 			"superCategory":"Classes",
-
 			"category":"Academy",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Educ for Employ 1",
-
 			"description":"Educ for Employ 1",
-
 			"superCategory":"Classes",
-
 			"category":"Special Ed",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"EFE for the Office",
-
 			"description":"EFE for the Office",
-
 			"superCategory":"Classes",
-
 			"category":"Special Ed",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"EFE for the Office",
-
 			"description":"EFE for the Office",
-
 			"superCategory":"Classes",
-
 			"category":"Special Ed",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Educ for Emp lvl 1",
-
 			"description":"Educ for Emp lvl 1",
-
 			"superCategory":"Classes",
-
 			"category":"Special Ed",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Educ for Emp lvl 1",
-
 			"description":"Educ for Emp lvl 1",
-
 			"superCategory":"Classes",
-
 			"category":"Special Ed",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Stud Art & Des 1",
-
 			"description":"Stud Art & Des 1",
-
 			"superCategory":"Classes",
-
 			"category":"Visual Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Digital Art 1",
-
 			"description":"Digital Art 1",
-
 			"superCategory":"Classes",
-
 			"category":"Visual Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Photography 1",
-
 			"description":"Photography 1",
-
 			"superCategory":"Classes",
-
 			"category":"Visual Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Intermediate Band",
-
 			"description":"Intermediate Band",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Intermediate Band",
-
 			"description":"Intermediate Band",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Advanced Band",
-
 			"description":"Advanced Band",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Intermed Orchestra",
-
 			"description":"Intermed Orchestra",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Advanced Orchestra",
-
 			"description":"Advanced Orchestra",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Advanced Orchestra",
-
 			"description":"Advanced Orchestra",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Advanced Orchestra",
-
 			"description":"Advanced Orchestra",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Jazz Ensemble",
-
 			"description":"Jazz Ensemble",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Jazz Ensemble",
-
 			"description":"Jazz Ensemble",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Guitar 1",
-
 			"description":"Guitar 1",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Guitar 2",
-
 			"description":"Guitar 2",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Percussion Ensemb",
-
 			"description":"Percussion Ensemb",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Ensembles",
-
 			"description":"Ensembles",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Ensembles",
-
 			"description":"Ensembles",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Piano Lab 1",
-
 			"description":"Piano Lab 1",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Mixed Chorus",
-
 			"description":"Mixed Chorus",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Adv Mixed Chorus",
-
 			"description":"Adv Mixed Chorus",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Adv Treble Chorus",
-
 			"description":"Adv Treble Chorus",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Show/Swing Choir",
-
 			"description":"Show/Swing Choir",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Show/Swing Choir",
-
 			"description":"Show/Swing Choir",
-
 			"superCategory":"Classes",
-
 			"category":"Performing Arts",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/3:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Hip Hop Dance",
-
 			"description":"Hip Hop Dance",
-
 			"superCategory":"Classes",
-
 			"category":"",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/50 mins one day a week  :00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Leadership Train 1",
-
 			"description":"Leadership Train 1",
-
 			"superCategory":"Classes",
-
 			"category":"Social Studies",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2-3 hours per week:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Comp Tech Assist",
-
 			"description":"Comp Tech Assist",
-
 			"superCategory":"Classes",
-
 			"category":"Academy",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/0:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"Combatting Intolerance",
-
 			"description":"Combatting Intolerance",
-
 			"superCategory":"Classes",
-
 			"category":"Social Studies",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/1.5:00",
-
 			]
-
 		},
-
 		{
 
 			"name":"German 4",
-
 			"description":"German 4",
-
 			"superCategory":"Classes",
-
 			"category":"World Languages",
-
 			"times":[
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/00:00",
-
 				"-1:00/2:00",
-
 			]
-
 		},
     {
       "name": "Baseball",
