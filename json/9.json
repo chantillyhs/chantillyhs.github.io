@@ -1,0 +1,259 @@
+{
+	"actInfo":[
+		{
+			"name":"Algebra 1",
+			"description":"Algebra 1",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Algebra 1 HN",
+			"description":"Algebra 1 HN",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Algebra 1 Part 1",
+			"description":"Algebra 1 Part 1",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Algebra 2 HN",
+			"description":"Algebra 2 HN",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"English 9",
+			"description":"English 9",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"English 9 HN",
+			"description":"English 9 HN",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"English 9 HN(Civ)",
+			"description":"English 9 HN(Civ)",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Geometry HN",
+			"description":"Geometry HN",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Geometry Part 1",
+			"description":"Geometry Part 1",
+			"superCategory":"Classes",
+			"category":"Special Ed",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Health & PE 9",
+			"description":"Health & PE 9",
+			"superCategory":"Classes",
+			"category":"HPE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Individ Math",
+			"description":"Individ Math",
+			"superCategory":"Classes",
+			"category":"ESOL",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Intro to Marketing",
+			"description":"Intro to Marketing",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Literacy LAB 1",
+			"description":"Literacy LAB 1",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"US VA Govt ESOL",
+			"description":"US VA Govt ESOL",
+			"superCategory":"Classes",
+			"category":"ESOL",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Wld Hist/Geog 1 HN",
+			"description":"Wld Hist/Geog 1 HN",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"World Hist/Geog 1",
+			"description":"World Hist/Geog 1",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Class of 2021",
+			"description":"Class of 2021",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+	]
+}
