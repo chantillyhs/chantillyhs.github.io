@@ -1458,22 +1458,6 @@
 		},
 		{
 
-			"name":"Hip Hop Dance",
-			"description":"Hip Hop Dance",
-			"superCategory":"Classes",
-			"category":"",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"Leadership Train 1",
 			"description":"Leadership Train 1",
 			"superCategory":"Classes",
