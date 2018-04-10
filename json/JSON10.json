@@ -1,0 +1,1249 @@
+{
+	"actInfo":[
+		{
+			"name":"Accounting",
+			"description":"Accounting",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Active Physics",
+			"description":"Active Physics",
+			"superCategory":"Classes",
+			"category":"Science",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Air Force JROTC",
+			"description":"Air Force JROTC",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Algebra 1",
+			"description":"Algebra 1",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Algebra 1 Part 1",
+			"description":"Algebra 1 Part 1",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Algebra 2 HN",
+			"description":"Algebra 2 HN",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AP Biology",
+			"description":"AP Biology",
+			"superCategory":"Classes",
+			"category":"Science",
+			"times":[
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AP Calculus AB",
+			"description":"AP Calculus AB",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AP Calculus BC",
+			"description":"AP Calculus BC",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/01:18",
+				"-1:00/01:18",
+				"-1:00/01:18",
+				"-1:00/01:18",
+				"-1:00/01:18",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AP Capstone 1: Seminar",
+			"description":"AP Capstone 1: Seminar",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AP Human Geography",
+			"description":"AP Human Geography",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AP Statistics",
+			"description":"AP Statistics",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AP World Civ",
+			"description":"AP World Civ",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:54",
+				"-1:00/00:54",
+				"-1:00/00:54",
+				"-1:00/00:54",
+				"-1:00/00:54",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AP World History",
+			"description":"AP World History",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:42",
+				"-1:00/00:42",
+				"-1:00/00:42",
+				"-1:00/00:42",
+				"-1:00/00:42",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Arch Drawing",
+			"description":"Arch Drawing",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Auto Collision1 DE",
+			"description":"Auto Collision1 DE",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Auto Technology 1",
+			"description":"Auto Technology 1",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AutoCollision Svc1",
+			"description":"AutoCollision Svc1",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Broadcast Journ 1",
+			"description":"Broadcast Journ 1",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Broadcast Journ 2",
+			"description":"Broadcast Journ 2",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Business Law",
+			"description":"Business Law",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Business Mgt",
+			"description":"Business Mgt",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Carpentry 1",
+			"description":"Carpentry 1",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Ceramics 1 3-D Art",
+			"description":"Ceramics 1 3-D Art",
+			"superCategory":"Classes",
+			"category":"Visual Arts",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Chemistry 1",
+			"description":"Chemistry 1",
+			"superCategory":"Classes",
+			"category":"Science",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Chemistry 1 HN",
+			"description":"Chemistry 1 HN",
+			"superCategory":"Classes",
+			"category":"Science",
+			"times":[
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cosmetology I",
+			"description":"Cosmetology I",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Criminal Just 1 DE",
+			"description":"Criminal Just 1 DE",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Criminal Just 2 DE",
+			"description":"Criminal Just 2 DE",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Criminal Justice 1",
+			"description":"Criminal Justice 1",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber CompTech1 A+",
+			"description":"Cyber CompTech1 A+",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Cisco 1A",
+			"description":"Cyber: Cisco 1A",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Cisco 1A DE",
+			"description":"Cyber: Cisco 1A DE",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Cisco 1B",
+			"description":"Cyber: Cisco 1B",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Cisco 1B DE",
+			"description":"Cyber: Cisco 1B DE",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Cisco 2A",
+			"description":"Cyber: Cisco 2A",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Cisco 2A DE",
+			"description":"Cyber: Cisco 2A DE",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Cisco 2B",
+			"description":"Cyber: Cisco 2B",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/01:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Cisco 2B DE",
+			"description":"Cyber: Cisco 2B DE",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Oracle 1",
+			"description":"Cyber: Oracle 1",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Oracle 1 DE",
+			"description":"Cyber: Oracle 1 DE",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Oracle 2",
+			"description":"Cyber: Oracle 2",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber: Oracle 2 DE",
+			"description":"Cyber: Oracle 2 DE",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber:CompTech2 A+",
+			"description":"Cyber:CompTech2 A+",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber:NetAdmin1 DE",
+			"description":"Cyber:NetAdmin1 DE",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Digital Art 2",
+			"description":"Digital Art 2",
+			"superCategory":"Classes",
+			"category":"Visual Arts",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Driver Ed Class",
+			"description":"Driver Ed Class",
+			"superCategory":"Classes",
+			"category":"HPE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Econ & Pers Fin",
+			"description":"Econ & Pers Fin",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Educ for Emp lvl 1",
+			"description":"Educ for Emp lvl 1",
+			"superCategory":"Classes",
+			"category":"Special Ed",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Eng Drawing",
+			"description":"Eng Drawing",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Engineer Math",
+			"description":"Engineer Math",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"English 10",
+			"description":"English 10",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"English 10 HN",
+			"description":"English 10 HN",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"English 10 HN(Civ)",
+			"description":"English 10 HN(Civ)",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"French 3",
+			"description":"French 3",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Geometry HN",
+			"description":"Geometry HN",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Geometry Part 1",
+			"description":"Geometry Part 1",
+			"superCategory":"Classes",
+			"category":"Special Ed",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Health & PE 10",
+			"description":"Health & PE 10",
+			"superCategory":"Classes",
+			"category":"HPE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Individ Math",
+			"description":"Individ Math",
+			"superCategory":"Classes",
+			"category":"ESOL",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Journalism 2",
+			"description":"Journalism 2",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Journalism 3",
+			"description":"Journalism 3",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Journalism 4",
+			"description":"Journalism 4",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Leadership Train 2",
+			"description":"Leadership Train 2",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:42",
+				"-1:00/00:42",
+				"-1:00/00:42",
+				"-1:00/00:42",
+				"-1:00/00:42",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Literacy LAB 1",
+			"description":"Literacy LAB 1",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Marketing 1",
+			"description":"Marketing 1",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Personal Fitness 1",
+			"description":"Personal Fitness 1",
+			"superCategory":"Classes",
+			"category":"HPE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Photo Journalism 1",
+			"description":"Photo Journalism 1",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Photography 2",
+			"description":"Photography 2",
+			"superCategory":"Classes",
+			"category":"Visual Arts",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Precalculus w/Trig",
+			"description":"Precalculus w/Trig",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Psychology",
+			"description":"Psychology",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Sports Enter Mkg",
+			"description":"Sports Enter Mkg",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Sports Medicine",
+			"description":"Sports Medicine",
+			"superCategory":"Classes",
+			"category":"HPE",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"STEM Engineering",
+			"description":"STEM Engineering",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"STEM Robotics",
+			"description":"STEM Robotics",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Stud Art & Des 2",
+			"description":"Stud Art & Des 2",
+			"superCategory":"Classes",
+			"category":"Visual Arts",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Tech Theatre 2",
+			"description":"Tech Theatre 2",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Theatre Arts 2",
+			"description":"Theatre Arts 2",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"US VA Govt ESOL",
+			"description":"US VA Govt ESOL",
+			"superCategory":"Classes",
+			"category":"ESOL",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Wld Hist/Geog 2 HN",
+			"description":"Wld Hist/Geog 2 HN",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"World Hist/Geog 2",
+			"description":"World Hist/Geog 2",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"World Religions",
+			"description":"World Religions",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"National Honor Society (10,11&12)",
+			"description":"National Honor Society (10,11&12)",
+			"superCategory":"Clubs",
+			"category":"Academic",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Class of 2020",
+			"description":"Class of 2020",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		}
+	]
+}
