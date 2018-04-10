@@ -1,11 +1,10 @@
 {
 	"actInfo":[
 		{
-
-			"name":"Creative Writing 1",
-			"description":"Creative Writing 1",
+			"name":"Adapted Phys Ed",
+			"description":"Adapted Phys Ed",
 			"superCategory":"Classes",
-			"category":"English",
+			"category":"HPE",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -17,791 +16,6 @@
 			]
 		},
 		{
-
-			"name":"Creative Writing 1",
-			"description":"Creative Writing 1",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Creative Writing 1",
-			"description":"Creative Writing 1",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Creative Writing 1",
-			"description":"Creative Writing 1",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Creative Writing 2",
-			"description":"Creative Writing 2",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Creative Writing 3",
-			"description":"Creative Writing 3",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"LiteracyEssentials",
-			"description":"LiteracyEssentials",
-			"superCategory":"Classes",
-			"category":"Special Education",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"LiteracyEssentials",
-			"description":"LiteracyEssentials",
-			"superCategory":"Classes",
-			"category":"Special Education",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Literacy LAB 1",
-			"description":"Literacy LAB 1",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Journalism 1",
-			"description":"Journalism 1",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Speech Commun",
-			"description":"Speech Commun",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Forensics",
-			"description":"Forensics",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Debate",
-			"description":"Debate",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Theatre Arts 1",
-			"description":"Theatre Arts 1",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Theatre Arts 1",
-			"description":"Theatre Arts 1",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Tech Theatre 1",
-			"description":"Tech Theatre 1",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Film Study",
-			"description":"Film Study",
-			"superCategory":"Classes",
-			"category":"English",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"AP Computer Sci A",
-			"description":"AP Computer Sci A",
-			"superCategory":"Classes",
-			"category":"Mathematics",
-			"times":[
-				"-1:00/00:36",
-				"-1:00/00:36",
-				"-1:00/00:36",
-				"-1:00/00:36",
-				"-1:00/00:36",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"AP Computer Sci Pr",
-			"description":"AP Computer Sci Pr",
-			"superCategory":"Classes",
-			"category":"Mathematics",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Biology Part 1",
-			"description":"Biology Part 1",
-			"superCategory":"Classes",
-			"category":"Science",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Biology 1",
-			"description":"Biology 1",
-			"superCategory":"Classes",
-			"category":"Science",
-			"times":[
-				"-1:00/00:15",
-				"-1:00/00:15",
-				"-1:00/00:15",
-				"-1:00/00:15",
-				"-1:00/00:15",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Biology 1 HN",
-			"description":"Biology 1 HN",
-			"superCategory":"Classes",
-			"category":"Science",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"STEM Essentials",
-			"description":"STEM Essentials",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"French 1",
-			"description":"French 1",
-			"superCategory":"Classes",
-			"category":"World Languages",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"French 2",
-			"description":"French 2",
-			"superCategory":"Classes",
-			"category":"World Languages",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"German 1",
-			"description":"German 1",
-			"superCategory":"Classes",
-			"category":"World Languages",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"German 2",
-			"description":"German 2",
-			"superCategory":"Classes",
-			"category":"World Languages",
-			"times":[
-				"-1:00/00:09",
-				"-1:00/00:09",
-				"-1:00/00:09",
-				"-1:00/00:09",
-				"-1:00/00:09",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"German 3",
-			"description":"German 3",
-			"superCategory":"Classes",
-			"category":"World Languages",
-			"times":[
-				"-1:00/00:15",
-				"-1:00/00:15",
-				"-1:00/00:15",
-				"-1:00/00:15",
-				"-1:00/00:15",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Latin 1",
-			"description":"Latin 1",
-			"superCategory":"Classes",
-			"category":"World Languages",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Latin 2",
-			"description":"Latin 2",
-			"superCategory":"Classes",
-			"category":"World Languages",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Latin 3",
-			"description":"Latin 3",
-			"superCategory":"Classes",
-			"category":"World Languages",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Latin 4",
-			"description":"Latin 4",
-			"superCategory":"Classes",
-			"category":"World Languages",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Spanish 3",
-			"description":"Spanish 3",
-			"superCategory":"Classes",
-			"category":"World Languages",
-			"times":[
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English Lang Dev",
-			"description":"English Lang Dev",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English 9",
-			"description":"English 9",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English 9",
-			"description":"English 9",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English 9",
-			"description":"English 9",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English 10",
-			"description":"English 10",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"English 10",
-			"description":"English 10",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"Adv Info Sys",
 			"description":"Adv Info Sys",
 			"superCategory":"Classes",
@@ -817,583 +31,6 @@
 			]
 		},
 		{
-
-			"name":"Des MultiM WebTech",
-			"description":"Des MultiM WebTech",
-			"superCategory":"Classes",
-			"category":"CTE",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Web Page Dev",
-			"description":"Web Page Dev",
-			"superCategory":"Classes",
-			"category":"CTE",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Programming",
-			"description":"Programming",
-			"superCategory":"Classes",
-			"category":"CTE",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Pers Development",
-			"description":"Pers Development",
-			"superCategory":"Classes",
-			"category":"Special Education",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Strats for Success",
-			"description":"Strats for Success",
-			"superCategory":"Classes",
-			"category":"ESOL",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Strats for Success",
-			"description":"Strats for Success",
-			"superCategory":"Classes",
-			"category":"Special Education",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Air Force JROTC 1",
-			"description":"Air Force JROTC 1",
-			"superCategory":"Classes",
-			"category":"Academy",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Air Force JROTC",
-			"description":"Air Force JROTC",
-			"superCategory":"Classes",
-			"category":"Academy",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Fash Marketing 1",
-			"description":"Fash Marketing 1",
-			"superCategory":"Classes",
-			"category":"CTE",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Design and Tech",
-			"description":"Design and Tech",
-			"superCategory":"Classes",
-			"category":"CTE",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"STEM Design",
-			"description":"STEM Design",
-			"superCategory":"Classes",
-			"category":"CTE",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Prof PhotoStudio 1",
-			"description":"Prof PhotoStudio 1",
-			"superCategory":"Classes",
-			"category":"Academy",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Educ for Employ 1",
-			"description":"Educ for Employ 1",
-			"superCategory":"Classes",
-			"category":"Special Education",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"EFE for the Office",
-			"description":"EFE for the Office",
-			"superCategory":"Classes",
-			"category":"Special Education",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"EFE for the Office",
-			"description":"EFE for the Office",
-			"superCategory":"Classes",
-			"category":"Special Education",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Educ for Emp lvl 1",
-			"description":"Educ for Emp lvl 1",
-			"superCategory":"Classes",
-			"category":"Special Education",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Educ for Emp lvl 1",
-			"description":"Educ for Emp lvl 1",
-			"superCategory":"Classes",
-			"category":"Special Education",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Stud Art & Des 1",
-			"description":"Stud Art & Des 1",
-			"superCategory":"Classes",
-			"category":"Visual Arts",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Digital Art 1",
-			"description":"Digital Art 1",
-			"superCategory":"Classes",
-			"category":"Visual Arts",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Photography 1",
-			"description":"Photography 1",
-			"superCategory":"Classes",
-			"category":"Visual Arts",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Intermediate Band",
-			"description":"Intermediate Band",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Intermediate Band",
-			"description":"Intermediate Band",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Advanced Band",
-			"description":"Advanced Band",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Intermed Orchestra",
-			"description":"Intermed Orchestra",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Advanced Orchestra",
-			"description":"Advanced Orchestra",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Advanced Orchestra",
-			"description":"Advanced Orchestra",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Advanced Orchestra",
-			"description":"Advanced Orchestra",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Jazz Ensemble",
-			"description":"Jazz Ensemble",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Jazz Ensemble",
-			"description":"Jazz Ensemble",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Guitar 1",
-			"description":"Guitar 1",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Guitar 2",
-			"description":"Guitar 2",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Percussion Ensemb",
-			"description":"Percussion Ensemb",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Ensembles",
-			"description":"Ensembles",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Ensembles",
-			"description":"Ensembles",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Piano Lab 1",
-			"description":"Piano Lab 1",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Mixed Chorus",
-			"description":"Mixed Chorus",
-			"superCategory":"Classes",
-			"category":"Performing Arts",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"Adv Mixed Chorus",
 			"description":"Adv Mixed Chorus",
 			"superCategory":"Classes",
@@ -1409,7 +46,6 @@
 			]
 		},
 		{
-
 			"name":"Adv Treble Chorus",
 			"description":"Adv Treble Chorus",
 			"superCategory":"Classes",
@@ -1425,71 +61,141 @@
 			]
 		},
 		{
-
-			"name":"Show/Swing Choir",
-			"description":"Show/Swing Choir",
+			"name":"Advanced Band",
+			"description":"Advanced Band",
 			"superCategory":"Classes",
 			"category":"Performing Arts",
 			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
 				"-1:00/00:00",
 				"-1:00/00:00"
 			]
 		},
 		{
-
-			"name":"Show/Swing Choir",
-			"description":"Show/Swing Choir",
+			"name":"Advanced Orchestra",
+			"description":"Advanced Orchestra",
 			"superCategory":"Classes",
 			"category":"Performing Arts",
 			"times":[
-				"-1:00/00:36",
-				"-1:00/00:36",
-				"-1:00/00:36",
-				"-1:00/00:36",
-				"-1:00/00:36",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
 				"-1:00/00:00",
 				"-1:00/00:00"
 			]
 		},
 		{
-
-			"name":"Leadership Train 1",
-			"description":"Leadership Train 1",
-			"superCategory":"Classes",
-			"category":"Social Studies",
-			"times":[
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Comp Tech Assist",
-			"description":"Comp Tech Assist",
+			"name":"Air Force JROTC 1",
+			"description":"Air Force JROTC 1",
 			"superCategory":"Classes",
 			"category":"Academy",
 			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
 				"-1:00/00:00",
 				"-1:00/00:00"
 			]
 		},
 		{
-
+			"name":"Algebra 2",
+			"description":"Algebra 2",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AP Computer Sci A",
+			"description":"AP Computer Sci A",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"AP Computer Sci Pr",
+			"description":"AP Computer Sci Pr",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Biology 1",
+			"description":"Biology 1",
+			"superCategory":"Classes",
+			"category":"Science",
+			"times":[
+				"-1:00/00:15",
+				"-1:00/00:15",
+				"-1:00/00:15",
+				"-1:00/00:15",
+				"-1:00/00:15",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Biology 1 HN",
+			"description":"Biology 1 HN",
+			"superCategory":"Classes",
+			"category":"Science",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Biology Part 1",
+			"description":"Biology Part 1",
+			"superCategory":"Classes",
+			"category":"Science",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
 			"name":"Combatting Intolerance",
 			"description":"Combatting Intolerance",
 			"superCategory":"Classes",
@@ -1505,7 +211,336 @@
 			]
 		},
 		{
-
+			"name":"Computer Science",
+			"description":"Computer Science",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Creative Writing 1",
+			"description":"Creative Writing 1",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Creative Writing 2",
+			"description":"Creative Writing 2",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Creative Writing 3",
+			"description":"Creative Writing 3",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Debate",
+			"description":"Debate",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Des MultiM WebTech",
+			"description":"Des MultiM WebTech",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Design and Tech",
+			"description":"Design and Tech",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Digital Art 1",
+			"description":"Digital Art 1",
+			"superCategory":"Classes",
+			"category":"Visual Arts",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"English 10 ESOL",
+			"description":"English 10 ESOL",
+			"superCategory":"Classes",
+			"category":"ESOL",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"English 9 ESOL",
+			"description":"English 9 ESOL",
+			"superCategory":"Classes",
+			"category":"ESOL",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"English Lang Dev",
+			"description":"English Lang Dev",
+			"superCategory":"Classes",
+			"category":"ESOL",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Ensembles",
+			"description":"Ensembles",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Ensembles",
+			"description":"Ensembles",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Fash Marketing 1",
+			"description":"Fash Marketing 1",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Film Study",
+			"description":"Film Study",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Forensics",
+			"description":"Forensics",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"French 1",
+			"description":"French 1",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"French 2",
+			"description":"French 2",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Geometry",
+			"description":"Geometry",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"German 1",
+			"description":"German 1",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"German 2",
+			"description":"German 2",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:09",
+				"-1:00/00:09",
+				"-1:00/00:09",
+				"-1:00/00:09",
+				"-1:00/00:09",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"German 3",
+			"description":"German 3",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:15",
+				"-1:00/00:15",
+				"-1:00/00:15",
+				"-1:00/00:15",
+				"-1:00/00:15",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
 			"name":"German 4",
 			"description":"German 4",
 			"superCategory":"Classes",
@@ -1521,27 +556,10 @@
 			]
 		},
 		{
-
-			"name":"A Cappella Choir",
-			"description":"A Cappella Choir",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Aerospace",
-			"description":"Aerospace",
-			"superCategory":"Clubs",
-			"category":"Other",
+			"name":"Guitar 1",
+			"description":"Guitar 1",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
 			"times":[
 				"-1:00/00:24",
 				"-1:00/00:24",
@@ -1553,139 +571,25 @@
 			]
 		},
 		{
-
-			"name":"Animal Welfare",
-			"description":"Animal Welfare",
-			"superCategory":"Clubs",
-			"category":"Volunteer",
+			"name":"Guitar 2",
+			"description":"Guitar 2",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
 			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
 				"-1:00/00:00",
 				"-1:00/00:00"
 			]
 		},
 		{
-
-			"name":"Anime/Origami",
-			"description":"Anime/Origami",
-			"superCategory":"Clubs",
-			"category":"Art",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Athletic Trainers",
-			"description":"Athletic Trainers",
-			"superCategory":"Clubs",
-			"category":"Sports",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Band – Color Guard",
-			"description":"Band – Color Guard",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Band-Indoor/Outdoor Drum Line",
-			"description":"Band-Indoor/Outdoor Drum Line",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"BBC British Media",
-			"description":"BBC British Media",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Best Buddies",
-			"description":"Best Buddies",
-			"superCategory":"Clubs",
-			"category":"Volunteer",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Broadcast Journalism (Knightly News)",
-			"description":"Broadcast Journalism (Knightly News)",
-			"superCategory":"Clubs",
-			"category":"Art",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Cards for Care",
-			"description":"Cards for Care",
-			"superCategory":"Clubs",
-			"category":"Other",
+			"name":"Information Sys",
+			"description":"Information Sys",
+			"superCategory":"Classes",
+			"category":"CTE",
 			"times":[
 				"-1:00/00:00",
 				"-1:00/00:00",
@@ -1697,43 +601,10 @@
 			]
 		},
 		{
-
-			"name":"Chess Club",
-			"description":"Chess Club",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Choir",
-			"description":"Choir",
-			"superCategory":"Clubs",
-			"category":"Academic",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Class of 2019",
-			"description":"Class of 2019",
-			"superCategory":"Clubs",
-			"category":"Other",
+			"name":"Intermed Orchestra",
+			"description":"Intermed Orchestra",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
 			"times":[
 				"-1:00/00:30",
 				"-1:00/00:30",
@@ -1745,11 +616,340 @@
 			]
 		},
 		{
-
-			"name":"Class of 2020",
-			"description":"Class of 2020",
-			"superCategory":"Clubs",
-			"category":"Other",
+			"name":"Intermediate Band",
+			"description":"Intermediate Band",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Jazz Ensemble",
+			"description":"Jazz Ensemble",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Journalism 1",
+			"description":"Journalism 1",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Latin 1",
+			"description":"Latin 1",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Latin 2",
+			"description":"Latin 2",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Latin 3",
+			"description":"Latin 3",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Latin 4",
+			"description":"Latin 4",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Leadership Train 1",
+			"description":"Leadership Train 1",
+			"superCategory":"Classes",
+			"category":"Social Studies",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Literacy LAB 2",
+			"description":"Literacy LAB 2",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Literacy LAB 3",
+			"description":"Literacy LAB 3",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"LiteracyEssentials",
+			"description":"LiteracyEssentials",
+			"superCategory":"Classes",
+			"category":"Special Ed",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Mixed Chorus",
+			"description":"Mixed Chorus",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Percussion Ensemb",
+			"description":"Percussion Ensemb",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Pers Development",
+			"description":"Pers Development",
+			"superCategory":"Classes",
+			"category":"Special Ed",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Photography 1",
+			"description":"Photography 1",
+			"superCategory":"Classes",
+			"category":"Visual Arts",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Piano Lab 1",
+			"description":"Piano Lab 1",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Precalc w/Trig HN",
+			"description":"Precalc w/Trig HN",
+			"superCategory":"Classes",
+			"category":"Math",
+			"times":[
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Prof PhotoStudio 1",
+			"description":"Prof PhotoStudio 1",
+			"superCategory":"Classes",
+			"category":"Academy",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Programming",
+			"description":"Programming",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Show/Swing Choir",
+			"description":"Show/Swing Choir",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Show/Swing Choir",
+			"description":"Show/Swing Choir",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Spanish 1",
+			"description":"Spanish 1",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Spanish 3",
+			"description":"Spanish 3",
+			"superCategory":"Classes",
+			"category":"World Languages",
 			"times":[
 				"-1:00/00:24",
 				"-1:00/00:24",
@@ -1761,11 +961,40 @@
 			]
 		},
 		{
-
-			"name":"College Partnership",
-			"description":"College Partnership",
-			"superCategory":"Clubs",
-			"category":"Other",
+			"name":"Spanish 4",
+			"description":"Spanish 4",
+			"superCategory":"Classes",
+			"category":"World Languages",
+			"times":[
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Speech Commun",
+			"description":"Speech Commun",
+			"superCategory":"Classes",
+			"category":"English",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"STEM Design",
+			"description":"STEM Design",
+			"superCategory":"Classes",
+			"category":"CTE",
 			"times":[
 				"-1:00/00:03",
 				"-1:00/00:03",
@@ -1777,7 +1006,111 @@
 			]
 		},
 		{
-
+			"name":"STEM Essentials",
+			"description":"STEM Essentials",
+			"superCategory":"Classes",
+			"category":"ESOL",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Strats for Success",
+			"description":"Strats for Success",
+			"superCategory":"Classes",
+			"category":"ESOL",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Strats for Success",
+			"description":"Strats for Success",
+			"superCategory":"Classes",
+			"category":"Special Ed",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Stud Art & Des 1",
+			"description":"Stud Art & Des 1",
+			"superCategory":"Classes",
+			"category":"Visual Arts",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Tech Theatre 1",
+			"description":"Tech Theatre 1",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Theatre Arts 1",
+			"description":"Theatre Arts 1",
+			"superCategory":"Classes",
+			"category":"Performing Arts",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Web Page Dev",
+			"description":"Web Page Dev",
+			"superCategory":"Classes",
+			"category":"CTE",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
 			"name":"Computer Science",
 			"description":"Computer Science",
 			"superCategory":"Clubs",
@@ -1793,23 +1126,21 @@
 			]
 		},
 		{
-
 			"name":"Computer Science Honor Society",
 			"description":"Computer Science Honor Society",
 			"superCategory":"Clubs",
 			"category":"Academic",
 			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
 				"-1:00/00:00",
 				"-1:00/00:00"
 			]
 		},
 		{
-
 			"name":"Creative Writing",
 			"description":"Creative Writing",
 			"superCategory":"Clubs",
@@ -1825,91 +1156,10 @@
 			]
 		},
 		{
-
-			"name":"Cyber Patriot",
-			"description":"Cyber Patriot",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Dance Team",
-			"description":"Dance Team",
-			"superCategory":"Clubs",
-			"category":"Sports",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Debate Team",
-			"description":"Debate Team",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"DECA Competitors",
-			"description":"DECA Competitors",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"DECA Officers",
-			"description":"DECA Officers",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"DECA, An Association of Marketing Students (exclusive to marketing classes)",
 			"description":"DECA, An Association of Marketing Students (exclusive to marketing classes)",
 			"superCategory":"Clubs",
-			"category":"Other",
+			"category":"Academic",
 			"times":[
 				"-1:00/00:06",
 				"-1:00/00:06",
@@ -1921,295 +1171,21 @@
 			]
 		},
 		{
-
-			"name":"Dungeons and Dragons Club",
-			"description":"Dungeons and Dragons Club",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"English Honor Society",
 			"description":"English Honor Society",
 			"superCategory":"Clubs",
 			"category":"Academic",
 			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
+				"-1:00/00:01.8",
+				"-1:00/00:01.8",
+				"-1:00/00:01.8",
+				"-1:00/00:01.8",
+				"-1:00/00:01.8",
 				"-1:00/00:00",
 				"-1:00/00:00"
 			]
 		},
 		{
-
-			"name":"ESOL Involvement",
-			"description":"ESOL Involvement",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"ESOL Peer Tutoring",
-			"description":"ESOL Peer Tutoring",
-			"superCategory":"Clubs",
-			"category":"Academic",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"FBLA Competitors",
-			"description":"FBLA Competitors",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"FBLA Officers",
-			"description":"FBLA Officers",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Fellowship Christian Athletes",
-			"description":"Fellowship Christian Athletes",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Film Club",
-			"description":"Film Club",
-			"superCategory":"Clubs",
-			"category":"Art",
-			"times":[
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:24",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Forensics",
-			"description":"Forensics",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"French Club",
-			"description":"French Club",
-			"superCategory":"Clubs",
-			"category":"Languages",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"French National Honor Society",
-			"description":"French National Honor Society",
-			"superCategory":"Clubs",
-			"category":"Languages",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Future Business Leaders",
-			"description":"Future Business Leaders",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Future Health Leaders",
-			"description":"Future Health Leaders",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Gay/Straight Alliance",
-			"description":"Gay/Straight Alliance",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"GE2 Exploring Engineering",
-			"description":"GE2 Exploring Engineering",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"German Club",
-			"description":"German Club",
-			"superCategory":"Clubs",
-			"category":"Languages",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"German Honor Society",
-			"description":"German Honor Society",
-			"superCategory":"Clubs",
-			"category":"Languages",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Girl Up",
-			"description":"Girl Up",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"Girls Who Code",
 			"description":"Girls Who Code",
 			"superCategory":"Clubs",
@@ -2225,247 +1201,21 @@
 			]
 		},
 		{
-
-			"name":"H.O.S.A.- Health Occupation Student America",
-			"description":"H.O.S.A.- Health Occupation Student America",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Hip Hop",
-			"description":"Hip Hop",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Hispanic Heritage (Leadership)",
-			"description":"Hispanic Heritage (Leadership)",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Ice Hockey Interest Club",
-			"description":"Ice Hockey Interest Club",
-			"superCategory":"Clubs",
-			"category":"Sports",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Indian Student Association",
-			"description":"Indian Student Association",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Interact Club",
-			"description":"Interact Club",
-			"superCategory":"Clubs",
-			"category":"Volunteer",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"International Awareness",
-			"description":"International Awareness",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"International Thespian Society",
-			"description":"International Thespian Society",
-			"superCategory":"Clubs",
-			"category":"Art",
-			"times":[
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Investment",
-			"description":"Investment",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:06",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"It's Academic Team",
 			"description":"It's Academic Team",
 			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Key Club",
-			"description":"Key Club",
-			"superCategory":"Clubs",
-			"category":"Volunteer",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Latin Honor Society/Latin Club",
-			"description":"Latin Honor Society/Latin Club",
-			"superCategory":"Clubs",
 			"category":"Academic",
 			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
 				"-1:00/00:00",
 				"-1:00/00:00"
 			]
 		},
 		{
-
-			"name":"Literary Arts Magazine - Andromeda",
-			"description":"Literary Arts Magazine - Andromeda",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Marching Band",
-			"description":"Marching Band",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/01:36",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Math Club",
-			"description":"Math Club",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"Math Honor Society",
 			"description":"Math Honor Society",
 			"superCategory":"Clubs",
@@ -2481,23 +1231,6 @@
 			]
 		},
 		{
-
-			"name":"Meditation Club",
-			"description":"Meditation Club",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"Model UN",
 			"description":"Model UN",
 			"superCategory":"Clubs",
@@ -2513,263 +1246,6 @@
 			]
 		},
 		{
-
-			"name":"Muslim Student Assoc",
-			"description":"Muslim Student Assoc",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"National Art Honor Society",
-			"description":"National Art Honor Society",
-			"superCategory":"Clubs",
-			"category":"Volunteer",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"National Science Bowl",
-			"description":"National Science Bowl",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Newspaper-Purple Tide",
-			"description":"Newspaper-Purple Tide",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Opinion Exchange (CHSOE)",
-			"description":"Opinion Exchange (CHSOE)",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Orchestra & Strings Ensemble",
-			"description":"Orchestra & Strings Ensemble",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:30",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Photo Club",
-			"description":"Photo Club",
-			"superCategory":"Clubs",
-			"category":"Art",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Quill & Scroll Journalism Honor Society",
-			"description":"Quill & Scroll Journalism Honor Society",
-			"superCategory":"Clubs",
-			"category":"Academic",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Readers Club",
-			"description":"Readers Club",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Robotics Club - FRC 612",
-			"description":"Robotics Club - FRC 612",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/02:00",
-				"-1:00/02:00",
-				"-1:00/02:00",
-				"-1:00/02:00",
-				"-1:00/02:00",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Robotics Club - FTC Knightrix",
-			"description":"Robotics Club - FTC Knightrix",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/01:12",
-				"-1:00/01:12",
-				"-1:00/01:12",
-				"-1:00/01:12",
-				"-1:00/01:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Robotics Club - TSA - Vex Robotics",
-			"description":"Robotics Club - TSA - Vex Robotics",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:18",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Science National Honor Society",
-			"description":"Science National Honor Society",
-			"superCategory":"Clubs",
-			"category":"Volunteer",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Science Olympiad",
-			"description":"Science Olympiad",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Skills USA- Auto Collision",
-			"description":"Skills USA- Auto Collision",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Skills USA- Culinary",
-			"description":"Skills USA- Culinary",
-			"superCategory":"Clubs",
-			"category":"CoCurricular",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"Spanish Honor Society",
 			"description":"Spanish Honor Society",
 			"superCategory":"Clubs",
@@ -2785,11 +1261,190 @@
 			]
 		},
 		{
-
-			"name":"Speech",
-			"description":"Speech",
+			"name":"Photo Club",
+			"description":"Photo Club",
 			"superCategory":"Clubs",
 			"category":"Other",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Band-Indoor/Outdoor Drum Line",
+			"description":"Band-Indoor/Outdoor Drum Line",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Broadcast Journalism (Knightly News)",
+			"description":"Broadcast Journalism (Knightly News)",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"DECA Competitors",
+			"description":"DECA Competitors",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"DECA Officers",
+			"description":"DECA Officers",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"FBLA Competitors",
+			"description":"FBLA Competitors",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"FBLA Officers",
+			"description":"FBLA Officers",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Future Business Leaders",
+			"description":"Future Business Leaders",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Literary Arts Magazine - Andromeda",
+			"description":"Literary Arts Magazine - Andromeda",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Marching Band",
+			"description":"Marching Band",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Newspaper-Purple Tide",
+			"description":"Newspaper-Purple Tide",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Orchestra & Strings Ensemble",
+			"description":"Orchestra & Strings Ensemble",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
+			"times":[
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:30",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Robotics Club - TSA - Vex Robotics",
+			"description":"Robotics Club - TSA - Vex Robotics",
+			"superCategory":"Clubs",
+			"category":"CoCurricular",
 			"times":[
 				"-1:00/00:18",
 				"-1:00/00:18",
@@ -2801,39 +1456,36 @@
 			]
 		},
 		{
-
-			"name":"Student Government (SGA)",
-			"description":"Student Government (SGA)",
+			"name":"Skills USA- Auto Collision",
+			"description":"Skills USA- Auto Collision",
 			"superCategory":"Clubs",
-			"category":"Other",
+			"category":"CoCurricular",
 			"times":[
-				"-1:00/00:54",
-				"-1:00/00:54",
-				"-1:00/00:54",
-				"-1:00/00:54",
-				"-1:00/00:54",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
 				"-1:00/00:00",
 				"-1:00/00:00"
 			]
 		},
 		{
-
-			"name":"Students for Environmental Awareness /Action Team",
-			"description":"Students for Environmental Awareness /Action Team",
+			"name":"Skills USA- Culinary",
+			"description":"Skills USA- Culinary",
 			"superCategory":"Clubs",
-			"category":"Other",
+			"category":"CoCurricular",
 			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
 				"-1:00/00:00",
 				"-1:00/00:00"
 			]
 		},
 		{
-
 			"name":"Technology Student Association",
 			"description":"Technology Student Association",
 			"superCategory":"Clubs",
@@ -2849,71 +1501,6 @@
 			]
 		},
 		{
-
-			"name":"Tri-M Music Honor Society",
-			"description":"Tri-M Music Honor Society",
-			"superCategory":"Clubs",
-			"category":"Volunteer",
-			"times":[
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:03",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"WEB Dubois Society",
-			"description":"WEB Dubois Society",
-			"superCategory":"Clubs",
-			"category":"Other",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Wounded Warriors Project",
-			"description":"Wounded Warriors Project",
-			"superCategory":"Clubs",
-			"category":"Volunteer",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
-			"name":"Writing Center",
-			"description":"Writing Center",
-			"superCategory":"Clubs",
-			"category":"Academic",
-			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:00",
-				"-1:00/00:00"
-			]
-		},
-		{
-
 			"name":"Yearbook-Odyssey",
 			"description":"Yearbook-Odyssey",
 			"superCategory":"Clubs",
@@ -2929,27 +1516,850 @@
 			]
 		},
 		{
-
+			"name":"ESOL Involvement",
+			"description":"ESOL Involvement",
+			"superCategory":"Clubs",
+			"category":"Languages",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"ESOL Peer Tutoring",
+			"description":"ESOL Peer Tutoring",
+			"superCategory":"Clubs",
+			"category":"Languages",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"French Club",
+			"description":"French Club",
+			"superCategory":"Clubs",
+			"category":"Languages",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"French National Honor Society",
+			"description":"French National Honor Society",
+			"superCategory":"Clubs",
+			"category":"Languages",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"German Club",
+			"description":"German Club",
+			"superCategory":"Clubs",
+			"category":"Languages",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"German Honor Society",
+			"description":"German Honor Society",
+			"superCategory":"Clubs",
+			"category":"Languages",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"A Cappella Choir",
+			"description":"A Cappella Choir",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Aerospace",
+			"description":"Aerospace",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Animal Welfare",
+			"description":"Animal Welfare",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Anime/Origami",
+			"description":"Anime/Origami",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Band – Color Guard",
+			"description":"Band – Color Guard",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/01:36",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"BBC British Media",
+			"description":"BBC British Media",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cards for Care",
+			"description":"Cards for Care",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Chess Club",
+			"description":"Chess Club",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Choir",
+			"description":"Choir",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"College Partnership",
+			"description":"College Partnership",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Cyber Patriot",
+			"description":"Cyber Patriot",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Debate Team",
+			"description":"Debate Team",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Dungeons and Dragons Club",
+			"description":"Dungeons and Dragons Club",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Film Club",
+			"description":"Film Club",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:36",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Forensics",
+			"description":"Forensics",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:05.4",
+				"-1:00/00:05.4",
+				"-1:00/00:05.4",
+				"-1:00/00:05.4",
+				"-1:00/00:05.4",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Future Health Leaders",
+			"description":"Future Health Leaders",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Gay/Straight Alliance",
+			"description":"Gay/Straight Alliance",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"GE2 Exploring Engineering",
+			"description":"GE2 Exploring Engineering",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Girl Up",
+			"description":"Girl Up",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"H.O.S.A.- Health Occupation Student America",
+			"description":"H.O.S.A.- Health Occupation Student America",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Hip Hop",
+			"description":"Hip Hop",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Hispanic Heritage (Leadership)",
+			"description":"Hispanic Heritage (Leadership)",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Indian Student Association",
+			"description":"Indian Student Association",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"International Awareness",
+			"description":"International Awareness",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"International Thespian Society",
+			"description":"International Thespian Society",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Investment",
+			"description":"Investment",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Latin Honor Society/Latin Club",
+			"description":"Latin Honor Society/Latin Club",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Math Club",
+			"description":"Math Club",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Meditation Club",
+			"description":"Meditation Club",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Muslim Student Assoc",
+			"description":"Muslim Student Assoc",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"National Science Bowl",
+			"description":"National Science Bowl",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Opinion Exchange (CHSOE)",
+			"description":"Opinion Exchange (CHSOE)",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:01.2",
+				"-1:00/00:01.2",
+				"-1:00/00:01.2",
+				"-1:00/00:01.2",
+				"-1:00/00:01.2",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Quill & Scroll Journalism Honor Society",
+			"description":"Quill & Scroll Journalism Honor Society",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:01.2",
+				"-1:00/00:01.2",
+				"-1:00/00:01.2",
+				"-1:00/00:01.2",
+				"-1:00/00:01.2",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Readers Club",
+			"description":"Readers Club",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Robotics Club - FRC 612",
+			"description":"Robotics Club - FRC 612",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/02:00",
+				"-1:00/02:00",
+				"-1:00/02:00",
+				"-1:00/02:00",
+				"-1:00/02:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Robotics Club - FTC Knightrix",
+			"description":"Robotics Club - FTC Knightrix",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Science Olympiad",
+			"description":"Science Olympiad",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Speech",
+			"description":"Speech",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:18",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Student Government (SGA)",
+			"description":"Student Government (SGA)",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:48",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Students for Environmental Awareness /Action Team",
+			"description":"Students for Environmental Awareness /Action Team",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"WEB Dubois Society",
+			"description":"WEB Dubois Society",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Writing Center",
+			"description":"Writing Center",
+			"superCategory":"Clubs",
+			"category":"Other",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
 			"name":"Young Democrats",
 			"description":"Young Democrats",
 			"superCategory":"Clubs",
 			"category":"Other",
 			"times":[
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
-				"-1:00/00:12",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
 				"-1:00/00:00",
 				"-1:00/00:00"
 			]
 		},
 		{
-
 			"name":"Young Republicans",
 			"description":"Young Republicans",
 			"superCategory":"Clubs",
 			"category":"Other",
+			"times":[
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:06",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Athletic Trainer Student Aides",
+			"description":"Athletic Trainer Student Aides",
+			"superCategory":"Clubs",
+			"category":"Sports",
+			"times":[
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/01:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Dance Team",
+			"description":"Dance Team",
+			"superCategory":"Clubs",
+			"category":"Sports",
+			"times":[
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Fellowship Christian Athletes",
+			"description":"Fellowship Christian Athletes",
+			"superCategory":"Clubs",
+			"category":"Sports",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Ice Hockey Interest Club",
+			"description":"Ice Hockey Interest Club",
+			"superCategory":"Clubs",
+			"category":"Sports",
+			"times":[
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:24",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Best Buddies",
+			"description":"Best Buddies",
+			"superCategory":"Clubs",
+			"category":"Volunteer",
+			"times":[
+				"-1:00/00:02.4",
+				"-1:00/00:02.4",
+				"-1:00/00:02.4",
+				"-1:00/00:02.4",
+				"-1:00/00:02.4",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Interact Club",
+			"description":"Interact Club",
+			"superCategory":"Clubs",
+			"category":"Volunteer",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Key Club",
+			"description":"Key Club",
+			"superCategory":"Clubs",
+			"category":"Volunteer",
 			"times":[
 				"-1:00/00:12",
 				"-1:00/00:12",
@@ -2961,7 +2371,66 @@
 			]
 		},
 		{
-
+			"name":"National Art Honor Society",
+			"description":"National Art Honor Society",
+			"superCategory":"Clubs",
+			"category":"Volunteer",
+			"times":[
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:12",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Science National Honor Society",
+			"description":"Science National Honor Society",
+			"superCategory":"Clubs",
+			"category":"Volunteer",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Tri-M Music Honor Society",
+			"description":"Tri-M Music Honor Society",
+			"superCategory":"Clubs",
+			"category":"Volunteer",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
+			"name":"Wounded Warriors Project",
+			"description":"Wounded Warriors Project",
+			"superCategory":"Clubs",
+			"category":"Volunteer",
+			"times":[
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:03",
+				"-1:00/00:00",
+				"-1:00/00:00"
+			]
+		},
+		{
 			"name":"Football",
 			"description":"Football",
 			"superCategory":"Sports",
@@ -2977,7 +2446,6 @@
 			]
 		},
 		{
-
 			"name":"Cross Country",
 			"description":"Cross Country",
 			"superCategory":"Sports",
@@ -2993,7 +2461,6 @@
 			]
 		},
 		{
-
 			"name":"Volleyball",
 			"description":"Volleyball",
 			"superCategory":"Sports",
@@ -3009,7 +2476,6 @@
 			]
 		},
 		{
-
 			"name":"Golf",
 			"description":"Golf",
 			"superCategory":"Sports",
@@ -3025,7 +2491,6 @@
 			]
 		},
 		{
-
 			"name":"Cheer",
 			"description":"Cheer",
 			"superCategory":"Sports",
@@ -3041,7 +2506,6 @@
 			]
 		},
 		{
-
 			"name":"Field Hockey",
 			"description":"Field Hockey",
 			"superCategory":"Sports",
@@ -3057,7 +2521,6 @@
 			]
 		},
 		{
-
 			"name":"Boys Basketball",
 			"description":"Boys Basketball",
 			"superCategory":"Sports",
@@ -3073,7 +2536,6 @@
 			]
 		},
 		{
-
 			"name":"Girls Basketball",
 			"description":"Girls Basketball",
 			"superCategory":"Sports",
@@ -3089,7 +2551,6 @@
 			]
 		},
 		{
-
 			"name":"Indoor Track",
 			"description":"Indoor Track",
 			"superCategory":"Sports",
@@ -3105,7 +2566,6 @@
 			]
 		},
 		{
-
 			"name":"Swim/Dive",
 			"description":"Swim/Dive",
 			"superCategory":"Sports",
@@ -3121,7 +2581,6 @@
 			]
 		},
 		{
-
 			"name":"Wrestling",
 			"description":"Wrestling",
 			"superCategory":"Sports",
@@ -3137,7 +2596,6 @@
 			]
 		},
 		{
-
 			"name":"Gymnastics",
 			"description":"Gymnastics",
 			"superCategory":"Sports",
@@ -3153,7 +2611,6 @@
 			]
 		},
 		{
-
 			"name":"Baseball",
 			"description":"Baseball",
 			"superCategory":"Sports",
@@ -3169,7 +2626,6 @@
 			]
 		},
 		{
-
 			"name":"Softball",
 			"description":"Softball",
 			"superCategory":"Sports",
@@ -3185,7 +2641,6 @@
 			]
 		},
 		{
-
 			"name":"Boys Lacrosse",
 			"description":"Boys Lacrosse",
 			"superCategory":"Sports",
@@ -3201,7 +2656,6 @@
 			]
 		},
 		{
-
 			"name":"Girls Lacrosse",
 			"description":"Girls Lacrosse",
 			"superCategory":"Sports",
@@ -3217,7 +2671,6 @@
 			]
 		},
 		{
-
 			"name":"Boys Soccer",
 			"description":"Boys Soccer",
 			"superCategory":"Sports",
@@ -3233,7 +2686,6 @@
 			]
 		},
 		{
-
 			"name":"Girls Soccer",
 			"description":"Girls Soccer",
 			"superCategory":"Sports",
@@ -3249,7 +2701,6 @@
 			]
 		},
 		{
-
 			"name":"Track",
 			"description":"Track",
 			"superCategory":"Sports",
@@ -3265,7 +2716,6 @@
 			]
 		},
 		{
-
 			"name":"Boys Tennis",
 			"description":"Boys Tennis",
 			"superCategory":"Sports",
@@ -3281,7 +2731,6 @@
 			]
 		},
 		{
-
 			"name":"Girls Tennis",
 			"description":"Girls Tennis",
 			"superCategory":"Sports",
