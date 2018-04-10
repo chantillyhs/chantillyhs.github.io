@@ -17,15 +17,14 @@
         "fall",
         "winter",
         "spring",
-        "clubs"
     ],
     "Clubs" : [
-		"art",
-		"academic",
-		"sports",
-		"other",
-		"sport",
-		"volunteer",
-		"languages"
+	"art",
+	"academic",
+	"sports",
+	"other",
+	"sport",
+	"volunteer",
+	"languages"
     ]
 }
